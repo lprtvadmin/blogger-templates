@@ -1,0 +1,30 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-244557" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/D6dinQZmeH0MElgnqh4PjmO5">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/q6JgRNEesa_xPKBBuLHkpQUO">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/V5zBTh4ti9j3E2R3HOHyjTAQ">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/vklHtZJ08H_jzL4hE5CgXG9T">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/ftJnVn11jVIO7Rg7_CbhcwfI">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/P8rkmb9NKtV2yeLQaSXhJLF0">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/3JbTf8RsclXyx628hHGtAG6U">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/12Q7n0dda1qEloBw0r8jbfcD">Bölüm 8</a></li>
+  </ul>
+  <ul data-server-name="2.Sezon-244557" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/nU5ARZenUM5XohDHcyScvUEK">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/7qe3FMyZEvobh5OQAsqGcIuz">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/zwbmyaGdKqRcj7NzG4cYXs9f">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/xXlMbgjJVC2JMCPUNMlywvg4">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/aS_zVkmIuRrqTdHzWMyzgsJc">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Ov6crsZYsMQqYP4kPn4DXh2r">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/PhAyEW0A9vS6GHjPtoofGreO">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/I6DX8udeuHlt2HTN658KDpSz">Bölüm 8</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/dfFbnnrOk72zGAoRq8XyIOcB">Bölüm 9</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/8k2eks4OfLpE99ctQlvXyWEQ">Bölüm 10</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/HYZuoBNM0iUkSLPxHd_iKRt6">Bölüm 11</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/DNi31Egzk0UPQqoEXQzBAWd8">Bölüm 12</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/5yWHivBrMvU7VilH4JWa2D5K">Bölüm 13</a></li>
+  </ul>
+  <ul data-server-name="3.Sezon-244557" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/dXG_q2wM_RcaloiHO03THtbb">Bölüm 1</a></li>
+  </ul>
+</div>
