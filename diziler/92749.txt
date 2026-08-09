@@ -1,0 +1,10 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-92749" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/JIlz0pi2F9OZSnMs3ZMmvzfK">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/HtImqdX5TJVzjy0OVnObnsSc">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/0xYC5vgZ5S28_KWTo1BZN2bn">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/6JNB8pgxGA0rHc2jOjWmcxRj">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/BFRuL7Lg9ALXnmgkaHlcZhED">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/QfhDa_TSpcyEVJqHBCDmXCQW">Bölüm 6</a></li>
+  </ul>
+</div>
