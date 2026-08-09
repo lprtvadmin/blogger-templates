@@ -1,0 +1,10 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-224372" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/dDXXOQBJE8AS63TMraz8tSAE">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/4ZqCFkh2fSKpAn3AB398Bey3">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/v_TDffOq5E2vPu60evGMv6tE">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/B2LHsABoMyRp2qOompVAHs1e">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/vV7M28E0TzEWNiCad9jtXHZ1">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/WuDpupWdkwBwzAIWGS_YKI8A">Bölüm 6</a></li>
+  </ul>
+</div>
