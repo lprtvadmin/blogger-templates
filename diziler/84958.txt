@@ -1,0 +1,18 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-84958" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/CuqzhsUwALOZlDuqtPhkYetD">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/SlJBL6VwMq9FpH0xYPHGtiFQ">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/uCOyHTQMN01Z0ax8y9twt7ht">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/gnO9MgRNJ8XTiDW8nXqyRNde">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/rcFDOtv3ru5JZVlNYeqzDMrz">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/rbjfFUqTJW9kC8vF5WtmlJFB">Bölüm 6</a></li>
+  </ul>
+  <ul data-server-name="2.Sezon-84958" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/ryVfDHHTFO9gtndDIqQinXp1">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/RCAS60pnEDqLRNWXKz6R48js">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/BxUc9elpQbkdthqDejLfed6t">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/JLB3D4XLd9y1wUC8V3dZA76q">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/m7a_N9t4wrxQYYigPRLQHA41">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/e1KE9iBZoochd1ARZ0_daLHy">Bölüm 6</a></li>
+  </ul>
+</div>
