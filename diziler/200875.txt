@@ -1,0 +1,12 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-200875" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/wgTHsTVCpp69A8JUoaudt70K">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/VnKl16zgwNj625Yqk96dh2Vy">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/gHhgqRWK3KGhiGFiqRsZbcv2">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Q66NqA9aXnMCccrrpX2J3_F4">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/2MpGsw6PGBjAXg9rqv7j19Ud">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/FGuO8zdhroW2gd1MAq_UQN82">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/DARyPzXjdKMxQEYoCcjCtHR_">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/QThbTjVacUhvVFura7QfkjKx">Bölüm 8</a></li>
+  </ul>
+</div>
