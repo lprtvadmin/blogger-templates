@@ -1,0 +1,44 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-44217" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/iKSbKSagDCTViYSJhjKFpmq2">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Y2OKMsOIzGyl52CktXAETyf5">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/7baDcbPeQ1iPrEo0AoXZV9Of">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/y9pxUUGzyai2gZvGguwtAHQZ">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/AkccAd97t66mW8wBZYCdw2Xm">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/e9E4gYP2wbYlq5fd55rcYTIe">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/6LHQhp1KlIU5QhEG7zeaS8Ey">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/twvfk_yooPxJIcnUcFNgfC6W">Bölüm 8</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/plSJmFoQp1bxQyFXleGSjY5x">Bölüm 9</a></li>
+  </ul>
+  <ul data-server-name="2.Sezon-44217" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/mapJK1LlLw5yIFGU4S7Fvqx5">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/gwSV8PCQsML_QdRzC4LT0812">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/CZVaZP6o6ikoDoXEhsFs78zc">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/_dOXboGMDXblHp1ohJJ_3nRc">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/8ZB2ectSEIMEs28mH3UIRJVH">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/YWaxY9GPwrdCAl8jBEf1iGl8">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/8Rv29OHWodPshPgN3Z97VXI1">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/RjEAOVFMHK4uwwjZXVGnWBFh">Bölüm 8</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/t_1PJmPAgFW_A6lyMO4nx1z1">Bölüm 9</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/2T7DpefzSsDU3R9kINpe4W9a">Bölüm 10</a></li>
+  </ul>
+  <ul data-server-name="3.Sezon-44217" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/9DpYYgTDSkxCbIUu35PrQPHI">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/CKcVzM8OcGdq7aJrIs9rO9cD">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/KcFZnuJDXFfFWqkKx3QMkLe6">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/DwDOapdFV0piCnaxLlru1BOb">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/xwrDwPR9qpyoyVgmYM_oguaC">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/HPp0UBySMByyiCe5PmwQQYr1">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/AbniTEzmCl9yTous5JLNBfXq">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/QhzN1NZ9KJRsuOEKwamFjSCU">Bölüm 8</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/zUeGRWUKnObxIYPOAWnhTYvC">Bölüm 9</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/5w25CovQgaMkrKlWjSKClEzf">Bölüm 10</a></li>
+  </ul>
+  <ul data-server-name="4.Sezon-44217" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/bke0QRo5IK3_5Ev_YjvdbOQN">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/PwFB8USqZrUKf5EGTYAg7hv4">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/bT0kshC_u40QpaITSJqOLIU6">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/ueV73jRTl89BE0BnIqe5h_Jo">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/VEEIaUl3mrWRe3mD4V5JXWM_">Bölüm 5</a></li>
+  </ul>
+</div>
