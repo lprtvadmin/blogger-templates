@@ -1,0 +1,12 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-220102" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/79wObGnVSrQuDEPTJGg1PwC2">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Vyx6JAgbbwCZyR45mo2V7vlb">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/LqLLrJQilnWZQFDbMWgpgkM4">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/bIJweeT1OUU4H1SCs4wE2jc_">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/_uyJmmNhfaONxYhG5srlYTqL">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/9PdYIu2K150m_qI4xWG3s96z">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/W4jTGzVCgQgf7nx4x5D5BJzl">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/iapLpNZqjW3o5_qMglgBHHNo">Bölüm 8</a></li>
+  </ul>
+</div>
