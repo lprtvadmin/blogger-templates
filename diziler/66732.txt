@@ -1,0 +1,50 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-66732" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/dcZ39gf3N1EWgie3tod0TIXu">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/gRB18z2uAhaR31dgbE3tIGBx">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Y6CRkrY1y6KYYkOZnc9CIYR5">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/vHKKHNOHqMaccMGrLgHQAnep">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/SRX3CJLEnnX3tzrm5rWkat2d">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/9DVEOkFc4FPG6TwTl1k3lamS">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/cULQ9XjXlYsBjseds89tUcXg">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/M0vJQs_v3BoUSJGvx89K7kUm">Bölüm 8</a></li>
+  </ul>
+  <ul data-server-name="2.Sezon-66732" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/EpTYPYtJbov3DhrylMdJKFh7">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/_VkiN8ViWJvYEkG3xXpGKPDp">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/8X5uDlHoZ71glrDej6K6VRgk">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Cb3IwzFHN_pe6ceALq1A9T2n">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/mozq37QSgfA3wLNL1NMwrOpR">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/qbAI46UCTHHcuYflPApAtu98">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/0w9LpaXJiGLfU92Drw1ycvC8">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Bj2m3uYBo7k3SDPeqeVWA0W8">Bölüm 8</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/9sXG73MpWmsGGUV8cGoTJ8My">Bölüm 9</a></li>
+  </ul>
+  <ul data-server-name="3.Sezon-66732" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/igMkCWdw6d6mRkvTVOis73Jt">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/d_TVUvJncxDGNbbJdJJjY1jW">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/nnOWax68GaVIs2mTxwgq7jHO">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Vt66UjP9QZvYKtPndYr9lXcm">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/JI3ZBBvgm13f4J4gpfmV_pH9">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/YD0G5CO_pF0fBTZyDSoI4qLB">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/zWbDiYxrjoU7jWy_Fc0jnkTV">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/RWgOKjLX_FGjc9cXgxCeX4gF">Bölüm 8</a></li>
+  </ul>
+  <ul data-server-name="4.Sezon-66732" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/LIxxg1BBwYXLct_8TFxJ3GRz">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/dUE3XypiFmZGli4hLFDJZdYb">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/KfI77awuDfcwDaOtp4m7HBFx">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/g9mJUdVM7Ehdz53PixBOvDUa">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/j_quQkdFNgnD52Oq3KG0YKB2">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/ogD4ScyKoVQ1Qp6UDpZqaBFF">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/ONQOjeBxWtTih3D6ds5dvmG4">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/4WmhvdV4nBAysLZH0V87yqhO">Bölüm 8</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/M0QVO3Iu2UwS3CsLSVLY46FP">Bölüm 9</a></li>
+  </ul>
+  <ul data-server-name="5.Sezon-66732" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/YAUMA_j2gKZ2orKZUBn5ezdM">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/MdaEct5bLdwCvFDYf7orNYZR">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/tFN6Rl0xzRpBXQ7F98T3ROQ7">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/EucLp7FIwBd4yasUd59mHzCy">Bölüm 4</a></li>
+  </ul>
+</div>
