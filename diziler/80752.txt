@@ -1,0 +1,32 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-80752" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/huJI8cPCQUoIEMaYhLyGoBe7">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/L5ziBG8awWmxB0Dzk1CboWhk">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/B28iFFattLYKQ76wxVJA2CB2">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/X3IpT8lODVPDeVCKCu11Ue27">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/q9zLOWjfbV8GAwvbTS40O1NY">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Ih3UJ0UaJwNlE1eJXBqw9yPb">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Y5INBoMQ_n5ExhKmewSPKDVx">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/NYxsFYsBp1_JCSaubuTKGIFI">Bölüm 8</a></li>
+  </ul>
+  <ul data-server-name="2.Sezon-80752" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/a9QpM7HX8dZN2K7rMGAGAI7a">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/G1FY1UFQ2Uwnjq6FFc_8RZ2u">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/bK6qM6MXz8_phxmqMiyUUkBY">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/m1EVLX9jlIc5iO1cd3MVRQBx">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/WHMjvaluqJYpTRw5kK67RFVl">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/KEGUhKHy5N0h2F8Heu42AScw">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/VHtjTW8zoXijHZ1Do4vSkP5l">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/ERadd8AW5wdlY5HR1HP8tPDf">Bölüm 8</a></li>
+  </ul>
+  <ul data-server-name="3.Sezon-80752" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/MjcnBMMuANCoTB0dhGkNubY5">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/v6YuSyoZgyPb7SNa9RcweMBr">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/BOzx3ViWIUAK5P6dFp3CA7nm">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/gPok6LicA9bTAsYjUTQubxwW">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/tnZmijNxc6TP8DwK37aeQBkB">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/AD6gmKLK31_Qla_hSxmIiyPY">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/vfvxZMaekSNRGE52HjhWXgqJ">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/VSQsd9wO7P4OumC7XoJ2FCAZ">Bölüm 8</a></li>
+  </ul>
+</div>
