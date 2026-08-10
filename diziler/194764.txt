@@ -1,0 +1,12 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-194764" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/oBpTPZQvlCE6aB2SIvj19TtX">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/48RYh2Ag63_7PbavWNEEnGRi">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/9o57vFb4nHFZNxprz04hGf8d">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/PkWFy0sHmK1QN4ZpmCpYmE3c">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/3jeI3zWr8O6AniW0UmkQ056e">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/nryywjkQxY8qcDljxSN5fmfK">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/IyJpPqfOJtRKpHy7BnIiV8fh">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/6pdZam5F2Y6BjBvd5IQO1eek">Bölüm 8</a></li>
+  </ul>
+</div>
