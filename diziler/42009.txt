@@ -1,0 +1,49 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-42009" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/00DgsFm6RUq5H2BALbc4oiX9">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/wL5EtGFcrMOm9zJ_hxTBN7Ae">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/PHie5c58srQRNLPlCe6LYZWJ">Bölüm 3</a></li>
+  </ul>
+  <ul data-server-name="2.Sezon-42009" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/CbWKEHHekUM45UqTTnHhwtnf">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/RwQhNSqmPWB71ueyHQpjCJ17">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Nz3ioZ9lpfYCWkKWEtm69_Y4">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/XReo14damz9ASxMlHWx47BII">Bölüm 4</a></li>
+  </ul>
+  <ul data-server-name="3.Sezon-42009" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/6tKRdxUOxlIoliKPwiA2ydwO">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/u5Xq4zQ2tg1jhFlwbVaCwSGY">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/ap_MUpmnVrQ1lDypFYXvSmgY">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/uzV2PDJ6qPJU2krt8Bs5uBwd">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/NC96J1t4QPfdQUSiBkOFeW7O">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/4ROMUaqbGyOsY4L9bWVLrXOu">Bölüm 6</a></li>
+  </ul>
+  <ul data-server-name="4.Sezon-42009" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/RjidlQIAAbzGy6xv42LXlygB">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/hdI0lUCjuHEpKDBHO80ffwpe">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/oUoEk8Z0aWBwirP0ccZ9EJ5D">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/bwuuGH2oSJqmBy9FUsDV0jev">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Dz1N6DTh5Qq6Goduoh1yI2Oj">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Ctcgd7ZTesHli5PFnrEC7Fsh">Bölüm 6</a></li>
+  </ul>
+  <ul data-server-name="5.Sezon-42009" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/25cXroDKl9ruW92UYDwqHOeJ">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/NtozTia_pB7CteMbNBxw9v4K">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Fki0khX55FNI5SsUTnYjMyht">Bölüm 3</a></li>
+  </ul>
+  <ul data-server-name="6.Sezon-42009" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/BJSCr2kfwwT4y5jTLfJAr7Om">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/72JotWMQBvs9mARQ_MU7F9Zz">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Ti1EDSxnspObGDnez9Gf8pO_">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/L_LAulxn4rk88pkZrTSJVLL9">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Er3hGwlBuh9S_sUoPYdNi3Dt">Bölüm 5</a></li>
+  </ul>
+  <ul data-server-name="7.Sezon-42009" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/wjLsHV1X3Im785FBGigHiIAs">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/CCMWLaiFMNDs6II7VoAP56s8">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/nNbyowZ_AVkDhoA135lkmGRI">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/2kuPlnzBalOcrENYIcKrQiu4">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/qWMdraiWADlIqpoSQ4d1xJGr">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/3PVmBUC6EW98yIvD051SHLSW">Bölüm 6</a></li>
+  </ul>
+</div>
