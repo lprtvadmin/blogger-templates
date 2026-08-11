@@ -1,0 +1,12 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-64464" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/JKYMS1_oPuRbfPx7ZVnBFJEK">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/VhOcbgLoFVfN6G_110XWTVG3">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/bBhEqAjOPDlRU9dcdX4kJbmQ">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/QZYyI7h4sUmZ8pse6yTWqCDh">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/I8wVbKTuagGPNGZMjlJVI7aT">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/rGJ_WtDjFGlcsdDfxdKZxoaL">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/6zSEB6HRPSE87RYiKHqAB7JR">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/vy5BWN0pPk55RY0xexdL3CTm">Bölüm 8</a></li>
+  </ul>
+</div>
