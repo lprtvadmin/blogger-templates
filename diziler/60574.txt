@@ -1,0 +1,50 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-60574" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/E1fnuvNhZqM1nfAV1hA6jiKq">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/sCYOUvFTLEnGODFfWK7dZuK0">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Ebfc00xgQI9ZqPtoeNzE5FE0">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/af2icEEmj96uavfWoaWvWF_n">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/rY2d1EBltP_bcAGOL2s_WzCv">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/4LZVH7PeFB6YWoCQpiPIaNOt">Bölüm 6</a></li>
+  </ul>
+  <ul data-server-name="2.Sezon-60574" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/HD7UfesVx6lAFHvVouRn3UcH">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/K0h1raXP72sxWOBgkQ2qFSQY">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/0Jm69oVxqnjvOiRtBfoP74HB">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/bNy4SAci573wTBUDpQ8YEBhj">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/IKEAW8wEFCwXCswTn0oo0O2l">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/coyBNlmTAakLMvKAaWZUFIj8">Bölüm 6</a></li>
+  </ul>
+  <ul data-server-name="3.Sezon-60574" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/YQOMkHTfPPABFOT93p6yrS8g">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/PAQljW0ZNBx2fF6tyvOLEK6G">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/QNY2mi_sJjmPcLKlsSqErSft">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/r5pQPiplbHba88sAmqv9JTD6">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/ZxR18THiIZHRo8Y0hcExMHpL">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/jJTuBzWdhU6EDOzbn9j6iA8x">Bölüm 6</a></li>
+  </ul>
+  <ul data-server-name="4.Sezon-60574" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/fWp55xxBreDSYHIcFYCzudvv">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/zAyfrGonC2AszmE6o0YbVmzw">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/KEa7jFbwxSoG5UpyiCmBS9N7">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/FmXmNq6ARtMC0wgdL5Ffgwr1">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/IaaZCH4FrFojqWOtyTyYRA88">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/L0SRCR9XlZlnYqCJM1nzw46t">Bölüm 6</a></li>
+  </ul>
+  <ul data-server-name="5.Sezon-60574" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/AsihbLwRD39ZpoQaFxzsk9mH">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/zsyo0AF1geD1Cl7a6DMlsEDj">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/_QaHA_bt89nHCb4Tg_lPRLIR">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/0HfpHs0KpOMjaU7hnDkf9Jug">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/GJaRTQWVM3B4mcrE695Z2j5q">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Le9Mucp6EMwZ0ItZBeRvObSi">Bölüm 6</a></li>
+  </ul>
+  <ul data-server-name="6.Sezon-60574" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/6jxAM9LrpbLKL8L96905Z09J">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/sSnYyaHAB8_zz09LkBoj2poz">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/sq5GWCqGAuttAQ28oYp9whzE">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/oJG7KredjE6pJJ8Pfn8EdNgS">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/FJpF24wbRAzaH2gY69UB30v9">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/HBbgvMCVuWhexGJZmua8kRlc">Bölüm 6</a></li>
+  </ul>
+</div>
