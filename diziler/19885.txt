@@ -1,0 +1,22 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-19885" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/YXREPBrNXRXwG27ieGtVlGua">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/I5Wu7lIxdWvpsQXgynlDdfON">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/msXf05M59uHWs5fhxTTdJIbx">Bölüm 3</a></li>
+  </ul>
+  <ul data-server-name="2.Sezon-19885" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/VvzGhrjiYc0KFmufNy68rUrc">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/JfYjJaDy47khYRClQ3lvbKHL">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/a6CLmBAzESZkwUieqf9ReijR">Bölüm 3</a></li>
+  </ul>
+  <ul data-server-name="3.Sezon-19885" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/0hwTPp8WvuMDaYm4YrxdZ2Nx">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/VumM4OM5KpdPpsgQjitAqt8g">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/bxGrvZ8HopFTUkBn0MWCEadm">Bölüm 3</a></li>
+  </ul>
+  <ul data-server-name="4.Sezon-19885" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/6g0bO2FG8tjSEpPD58DfKJ6a">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/C0akSvfTONdL2vh3Yzjrrrzg">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/gn6bETkogbhPlXTJXuA7m0NW">Bölüm 3</a></li>
+  </ul>
+</div>
