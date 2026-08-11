@@ -1,0 +1,10 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-114472" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/zSQ9ss8y3LJfi5rjGIiTFe2U">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/qMic3YcoNME8UwMsxXsqkf8L">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/9OBx83nKVP8lRaQPB5Q42ZV6">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/kTTzxU7i9GyUkRayn55oqpFg">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/tayb3KcZrqm_5vLqGQ45Osei">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/pYUhlMxwCZwIG1Q9s9e7cwrF">Bölüm 6</a></li>
+  </ul>
+</div>
