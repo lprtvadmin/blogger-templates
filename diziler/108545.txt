@@ -1,0 +1,12 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-108545" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/_oHWcFwCyCQXB0WbiVcn45J9">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/lsfZZ84PTOcUHfjsrj_hnDe6">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/5j5hT6XRgdlQsAnjFDGwSUQl">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/5bs6s493RGWrr2GHkmOxi3V6">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/eSO6snd1q_6JvJR1Z7Vmwheh">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/vBQUCxfSHXrqqG5hHg5nuU7G">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/IVykH3pvAf4jbzFSJsZpmh66">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/gfPj3e9b5WCXhc5GlK5hNfmP">Bölüm 8</a></li>
+  </ul>
+</div>
