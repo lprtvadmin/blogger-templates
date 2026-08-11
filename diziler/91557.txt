@@ -1,0 +1,10 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="3.Sezon-91557" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/aWzDmRSK0bJHg8z69Vb89Aim">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/jYGqgtRiY2P_Qyms7t0c6ehD">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/X8r23_fr7l3CNTXrIFh4v1QU">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/g7POkxV1LMCyIVfqMqk0Lym0">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/TzAFTqXJ9wmboHSGu1oh_lov">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/glcEG_xkayiIJ2LWsyw3lGWy">Bölüm 6</a></li>
+  </ul>
+</div>
