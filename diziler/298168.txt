@@ -1,0 +1,6 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-298168" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/ZybcImgQSyc4WytaixL64B6d">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Bg85G7gsc8D1wfQ5ohz1wo3C">Bölüm 2</a></li>
+  </ul>
+</div>
