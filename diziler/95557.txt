@@ -1,0 +1,42 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-95557" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/vHWocPTVMOpHy3sq0es_zkxm">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/uQQIkcTW7OYmgAufjDSMtVs1">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/gsSzjw_Rm96mdKziSUiHBAOd">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/dVlekT1zUIHpkXuCpXHAlQHX">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/enf7RUdd2ifGcAQ_e9VyTwUU">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/kFbyKypGSO2WK2KpheOJvEiI">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/EocbSacIQ27kb0vTxu4TNyV0">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/AKSxgVgOMPVJWJHw4Skfp2fF">Bölüm 8</a></li>
+  </ul>
+  <ul data-server-name="2.Sezon-95557" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/PuWfSI92GUGDItZtVitFHEJD">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/n3X7z7CY7FMArPMYcxaXrNMx">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/fuLA43OXqPZIEEaMQ_jLxhe4">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/hwIKV9DpEcYtqSAyTAL_wn0K">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/wwpJsrKYTyRl4tXwpwjqjFuC">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/x0r2ej3oS8Du_yRc1zSk1_KX">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/HOUKp4z55LJjyHhUxVNtjwe5">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/lpcswc379mZxVtdWLbg5ChTT">Bölüm 8</a></li>
+  </ul>
+  <ul data-server-name="3.Sezon-95557" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/lodZ23KYNVF6X9nleblwbid0">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/gLBAoiizVDtrfIOipUSs6u8V">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/A74ozxq5_iwKuDmJPPufSIqt">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/bMjWwt6LidhPu9ZhRaGO9bNu">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/y1bx1JteEqqhyaihRHiReSCq">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/YMKkj7TTsqGkWJV24psUgH7O">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/fviP79mnv3qN7CiMCb7cP4Ti">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/IYPBhlvDPxd_jdNTqop50_vv">Bölüm 8</a></li>
+  </ul>
+  <ul data-server-name="4.Sezon-95557" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/puWqwB6uFrB3KYwYYY1XB9Ij">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/riKeAGuyMO9HYiT00kLlqPSa">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/3xrWG2cU_D_HZprsptKPDFtw">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/LTCBLQ0MSpoSzcqCusxMi0ed">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/G4L_QBOE9LDPq3CwIravwLg7">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/r7i5b_AhYpDZy5Jq0X9nsdOA">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/AW7if2Bs1rFlGUboWkNWPvEX">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/tpMih0hZ2TeJIjn18W6kK5mB">Bölüm 8</a></li>
+  </ul>
+</div>
