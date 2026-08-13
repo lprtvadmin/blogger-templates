@@ -28,10 +28,5 @@
     <li><a href="https://dcdlc9f2bddfff97.xyz/player/m2zwbE1AjiAHKmLlPl28EdQk">Bölüm 6</a></li>
     <li><a href="https://dcdlc9f2bddfff97.xyz/player/pcZaPKDetC_3EvcXYyGeN3tK">Bölüm 7</a></li>
     <li><a href="https://dcdlc9f2bddfff97.xyz/player/EqAicymt8vY62VMe9zaQbnOJ">Bölüm 8</a></li>
- </ul>
-  <ul data-server-name="4.Sezon-108978" data-server-logo="">
-    <li><a href="https://dizipalorijinal13.com/api/embed.php?slug=reacher-4-sezon-1-bolum&domain=https://dizipal2109.com">Bölüm 1</a></li>
-    <li><a href="https://dizipalorijinal13.com/api/embed.php?slug=reacher-4-sezon-2-bolum&domain=https://dizipal2109.com">Bölüm 2</a></li>
-    <li><a href="https://dizipalorijinal13.com/api/embed.php?slug=reacher-4-sezon-3-bolum&domain=https://dizipal2109.com">Bölüm 3</a></li>
   </ul>
 </div>
