@@ -1,0 +1,12 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-283297" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/o9U0rs9X2J7A9tRFp2bvuOnC">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/P3tSpYQGfTkWQStDyDQvgmmx">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/GP0XliN_owAcSyXy7dyokDc1">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/vqL7oUqLDHYsSaLhAI_SWuNF">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/PWInq2J7l0TBoH1K9tROZmbL">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/ZaHSUDPBKejbfpupBjyv_upJ">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/SPdfzRXm32Y_CgOGoPW8eNlS">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/zq7yNXHmDfdsWnRR08M0lb76">Bölüm 8</a></li>
+  </ul>
+</div>
