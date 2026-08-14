@@ -1,0 +1,8 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-287238" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/YQZLchK0pxJjBV0oVepA2KyU">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/ubUB1WWweH7LbKpa1GjD6aiG">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Wo_rDngjtWsDZ5dmfneqf2DW">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/C_63LM0SPQNZC8uoLxQ280Lh">Bölüm 4</a></li>
+  </ul>
+</div>
