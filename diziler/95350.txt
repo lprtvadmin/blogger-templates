@@ -1,0 +1,12 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-95350" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/zs6LDTfFJQHALr1T6cUqWhgu">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/cxZNv_5Rh5_2USJQSEpPBfAR">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/W_57tYN_EqWrQbwg9j3lSA4Q">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Dl170Ijb8ziUbqyvJqnCBX5s">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/rA_DcrR2iyY5BJU1OsGs1qhL">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/8LB1EQtFFeWPvl3auvi0ZUcL">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/JuviLAWZaxedaOzmX11uAK_P">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/X5iBlO5TR5Rd_m3Wo0Z_BSOa">Bölüm 8</a></li>
+  </ul>
+</div>
