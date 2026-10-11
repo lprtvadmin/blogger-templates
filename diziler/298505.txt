@@ -1,0 +1,25 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-298505" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/L0b7LZms4pE_697a1kPnHpHg">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/OCDTncmLI8ydquAMPR0nTSSd">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/5B5g_MA9Zkb7AIqDGstZK_iX">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Uyz5PLsem2iQRdQmwYxIz9WS">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/_dYNBy4Iq3uTYyt2YOKYVPBv">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/qfqAUfajGxFYXp1Fvs6k9cCJ">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/iMC_3bLUAbouxCRt_uc9iuSA">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/TTHww6HqUb_98AmEsQ9hv_1Q">Bölüm 8</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/4_E9rMRt4xWr70JXc7LfvCLB">Bölüm 9</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/rhvAci550uKz72IK7vf6jyTm">Bölüm 10</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/2VaTOPorUYId9oDP4rX4kf8g">Bölüm 11</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/CSleuP2hA_4ixSmu1JrIqBqA">Bölüm 12</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/_KBODwRpgmiDWcOAi4zRmQLk">Bölüm 13</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/y7vXKkuEPx6qgt3o8kOdr5qB">Bölüm 14</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/5F3YnhRYqQr_rBir2V5F_tsC">Bölüm 15</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/YffIsF9OmAK3N9wD6yWd0dQE">Bölüm 16</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/7JZkXX9cpmTlAqNUVHgWTjUF">Bölüm 17</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/wqf8dmSzYdDmgRA3Dc0h6Sty">Bölüm 18</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/1J_DdEFqX0X7eVeP4YWUsoMy">Bölüm 19</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/fbA1QgC0eRPoggw_ApJLhVOG">Bölüm 20</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/uYI0Nit9q585QUIFQU9kug_z">Bölüm 21</a></li>
+  </ul>
+</div>
