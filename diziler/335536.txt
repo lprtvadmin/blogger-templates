@@ -1,0 +1,8 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-335536" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Hfl89TFEZ1QKSVrpk6ZP5B7G">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/V4LnSHUInLSjgxwL0K60ckRn">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/LUZsDE4nFWgS0_EPjOyMKLUH">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/9sfC4PuhVkdD_TlvANOP37W2">Bölüm 4</a></li>
+  </ul>
+</div>
