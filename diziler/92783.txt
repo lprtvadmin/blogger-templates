@@ -1,0 +1,13 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-92783" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/0Z4Hc_dwSEtJkllqJGHPwbbb">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/nBldIZjd6UM7CS2EqJRX9qwH">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/bUX6UlS5RFdb51BGOIQYcrc1">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/WNNJesR1elEVRc4MKWbpHkVS">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/d19c6cWql_BP1Ud3OuB4E1r4">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/qIRbMkn2QqvMznLXEjkoQG7Z">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/lI6p8wg5NfiFh9VcRTbVuwFl">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/q9qrfqOW_bibszMIgtSVU5gm">Bölüm 8</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/MqB3Nn1N4bUKLeMKbceiRkR_">Bölüm 9</a></li>
+  </ul>
+</div>
