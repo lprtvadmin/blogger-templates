@@ -1,0 +1,20 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-52814" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/q7zJCZX0Iwa90_VUS5BPLxcw">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/7mT3cq_E8QrnskI8LikAJWg1">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/vYPPAcbYqAXfTZ5z4T1XYGNA">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/QnJTDhMUMq7rkxkGohcE6FHA">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/HEy6WENvbzaH5CvnynRi5Z3j">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/qGwW7V33h6uPFF6lFArN85Se">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/6nHXWG7wK4PqhyN11PMq2N1z">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/IE36fvUrQ09hzWtxxKlsS_rR">Bölüm 8</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/9qLUrxAcAvZAkQIhkT_NBjB5">Bölüm 9</a></li>
+  </ul>
+  <ul data-server-name="2.Sezon-52814" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/8HFtTGsDrDGAqnxGPzlyy8l5">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/BXkCzqCmZafY4ziu0znjrEGM">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/cu6gZr1fY4V_SCacuwX_jeen">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/DKtVYDL519mS4EwOnoHGbvBb">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/AUKDFZCE70vLdAbVxrMOL2C2">Bölüm 5</a></li>
+  </ul>
+</div>
