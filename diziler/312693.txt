@@ -1,0 +1,6 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-312693" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/4VgHPmA1p_Q21gvEYjnzyoKS">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/hwG4arHr39qfo9WuQoeagB0_">Bölüm 2</a></li>
+  </ul>
+</div>
