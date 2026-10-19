@@ -1,4 +1,60 @@
-</ul>
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-1407" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/sa6WwaWBQZ7Is7ewWhlqxIOc">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/knWLo0KEqBzbECZGvBV40IXB">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/_H_6o2sj2xqR2tJS0yCuPxuI">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/cyu7mJsAwoUaRmWauoTtjl8Z">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/XEjracY4AZ_f_vBsa12FEhd7">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/BDMWJTwJVQWrt_43r8jLqXF9">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/UTmpk5EXN50BqeRA_q90yutU">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/pIjoQwmPkQ8WPbct7h8umKES">Bölüm 8</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/vebk63ShRZ8KyuXcA6LsjzMO">Bölüm 9</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Itzq3cpiO68n2ZIMajTexBgz">Bölüm 10</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/DmVqcA6NzgT9s7wY7sp28UpN">Bölüm 11</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/PpbtJ_7tyVKYS3c8UV4HURiL">Bölüm 12</a></li>
+  </ul>
+  <ul data-server-name="2.Sezon-1407" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/mAoWr_5rOAJo_z5DnZA0FzyD">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Ber7lfO1JnudTOUWVqfXm4DU">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/CCqoqGUndYqUeMdSmBziY8Gc">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/BT77WYaqDIX_g1i2EQjZF8lM">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/cI_Um9VV6sc7iRYq9dqVIsxx">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/pPSy8B1MNiJFIABgyssql6Yy">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Fc2Yyn1H6fVuzPjqmGqEfUP1">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/WH3OjdBErlIJG32fMpuGwkzI">Bölüm 8</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/3W7DleDSW3LEFCXWni550HjP">Bölüm 9</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/_nqWhr1X34vICK3aDQJZqZHo">Bölüm 10</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/JpECaTemj4TnIiKGpnU4Bd9h">Bölüm 11</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/gZ62NiADYPMFM9o0Y3gxS_5e">Bölüm 12</a></li>
+  </ul>
+  <ul data-server-name="3.Sezon-1407" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/jn9hMw61u8sZPo4aQmH0wzDf">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/ripFdMGuv_isotheStfGq__l">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/tI9tnA8CT5oP1uB4Az5dfyKV">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/ya03fAOuCFRBIFI9unPFk1yP">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/LXJJpwaVwQ8EumnYZVZFtvtj">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/eNPc07qY7yluWkiZyx7HiJw2">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/6NLSbzGwwhDkabXHjJJ6Ddii">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/NqoXI6asZPdi_iqSPITQhii6">Bölüm 8</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/6UF2kcpFcr70kZlnAbsffzom">Bölüm 9</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/h5xokEUVtXjAXk23G_jjY2ti">Bölüm 10</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/mkDhgBAkOy46wEoEGsgKMyjm">Bölüm 11</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/GKTB3411JJCoZqHkXbhf61Fs">Bölüm 12</a></li>
+  </ul>
+  <ul data-server-name="4.Sezon-1407" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/aWH5xDahuZzE91vCPXfK9F2G">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/nll3v2ED58FZPjbFfDjegGV5">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/xVv1hEYpUQuST5ePci2O5CUF">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/DGowdtSplGFDVR5cprzuGTmy">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/W23MXhK4SSdQqGmcNUHtqcTi">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/m9jhaLFHRtICQBag5m1xTG4_">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/p2I8D8wZA65_yYQ3OKa0kLPs">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/FBgXv0NXKXYV7QUBTfMprf57">Bölüm 8</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/gjWikwHuLGbtzt59Cp_qooR1">Bölüm 9</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/NGE7oHdnPJo9nxJxXCmBFTno">Bölüm 10</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Uh_6lHiRtmUCznw6AYOGArjJ">Bölüm 11</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Zwb95Exe8PvzRQowZ_CiXBxJ">Bölüm 12</a></li>
+  </ul>
   <ul data-server-name="5.Sezon-1407" data-server-logo="">
     <li><a href="https://dcdlc9f2bddfff97.xyz/player/gHwINofUv_hyIVv5uv7zoskf">Bölüm 1</a></li>
     <li><a href="https://dcdlc9f2bddfff97.xyz/player/mfOkfWJVjDsalRTh3qjBrZvQ">Bölüm 2</a></li>
