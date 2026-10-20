@@ -1,0 +1,12 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-198178" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/LIZTMRwFSxPH0cPwOiPfV06r">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/frO6S9tbfv9UPvDsCU8zsXzR">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/WGKKZOiYkwMnvSxQzfw9Yo_r">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/4O5Tg8x2D8U4JmFL49i9fb4o">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/hU6l03TFCTvPi1hiimrHkXQW">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/lxe8HxKXQ3rdhUFqADZXrn6U">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Ll77w4vRUZAbAhHIDevSnMd6">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/ZX1u2u1qHxPWneQGqFhrIgE0">Bölüm 8</a></li>
+  </ul>
+</div>
