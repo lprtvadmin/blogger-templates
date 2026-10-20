@@ -1,0 +1,12 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-245318" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/nAMPOZbO8X2i3y0XdOpTIzPY">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/kJZr3w0h8j_z91KeqJ_OPrF6">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/IslyveZZe1zrfPAGUi0pB3Zd">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/kArHo_9IS9jnjDTQZCtYwRU7">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/wEukaT2bavigO4XymE95T3Xa">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/7S7K9Z8FvHsItGnwucVMshA6">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/QSQyCmMDmttT7p4uCayBHsuc">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/ZNpOd2DU1WxsMqB90UhjSq3I">Bölüm 8</a></li>
+  </ul>
+</div>
