@@ -1,0 +1,13 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-302074" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Vw71vHMKw8De0RUgxEc8EmpK">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/g_hPoWZYNtGPPGzZedpbrOZh">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/eWctTPVRQkzgkKzagdWd5KZt">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/WNybIC3sFQPBZm1LcTDf5WrS">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/LgalMriU1nseGnCs_Wy6H2_k">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/mgId2XtKCXf3YS12ClmH0rU8">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/4UeCNuIHIwPImG3l_DISOLvH">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/83aTOQbCr646FIlhzV2N5Fd8">Bölüm 8</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/iv_Yfifk7wPvpSU4lbaxIuQH">Bölüm 9</a></li>
+  </ul>
+</div>
