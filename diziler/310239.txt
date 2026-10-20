@@ -1,0 +1,13 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-310239" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/x_j9fNUwMaqgbgue5K_nOtDR">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/W_oW6WnAAoJMhFi6BBGpPSQs">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/mfvMH4LlrjxAcM8g9R5L1N5i">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/m8xNrOZDWYzN9KPUsrCrid_T">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/AbdEpuLhrKmdB3ay3oAspZwP">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/wILle5LPL6C95_Jh4_irjsgK">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/VzX20GZWwTT45zjvjvBD6JG0">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/0LXAtQUSnxL9C7ghHOk1qhfi">Bölüm 8</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/DiAkv8pXMgPCDEaAhdfcc_LE">Bölüm 9</a></li>
+  </ul>
+</div>
