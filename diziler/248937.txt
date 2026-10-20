@@ -1,0 +1,8 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-248937" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/uYZwctLn_ICY27WAqc7da4Rx">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/_aT_2K3nnrUISjse_2w4POx2">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/OpaYk7eoKChIr9JnA1wSipWa">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/bKp09QWO1ZI9rNyiVLtkqU7g">Bölüm 5</a></li>
+  </ul>
+</div>
