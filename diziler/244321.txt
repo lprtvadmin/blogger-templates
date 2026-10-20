@@ -1,0 +1,9 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-244321" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/RkFWnGh20lkIUpwlePE6JEHl">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/ZMsZNvytgiLCUDb2c8kThMpW">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/qPTjQ1VhbQwYUrNJPluf4CRc">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/QH4XBZq1WSFOXDhnKwyjzGEN">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/JbrKH_aZN7dKU8Txv61a0H_c">Bölüm 5</a></li>
+  </ul>
+</div>
