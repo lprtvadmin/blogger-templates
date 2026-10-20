@@ -1,0 +1,18 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-61859" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/MgiaV1KSSQ2WKNjdsXr5mCiN">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/0x2Kk42VsHskLenEYnqAKKJp">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/8PC4eMBJijHyk8uUY2ECuW6E">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/cj1k0vvDQXFCElJERilDGdfB">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/0zxnIy51qOhot2LTZiaoA93F">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/gBCZKeFrO3Fz25xZm9rfvkhF">Bölüm 6</a></li>
+  </ul>
+  <ul data-server-name="2.Sezon-61859" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/TnzbIl8poszT4RV8Lbz9r1ZR">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/i5msncNkR85w_E8jPPV7WTl_">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/OtiScpit3Hol7SSIZk5_bTZg">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/OafRgw3DnZez2wf0sSUB0V80">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/iNrMHB2mgA5ftnm81TaOUbGw">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/VN5CpsQXEBysSho33HeZdduH">Bölüm 6</a></li>
+  </ul>
+</div>
