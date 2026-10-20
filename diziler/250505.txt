@@ -1,0 +1,7 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-250505" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/wmOEVbzgxEIVWvVQYghQyu0Y">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/eQ4YbYUAE_3IccjEN0MiR4mb">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/j31rHcnJe0HtuL12qQW4OQkY">Bölüm 3</a></li>
+  </ul>
+</div>
