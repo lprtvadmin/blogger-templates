@@ -1,0 +1,10 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-289763" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/gsj_bqXEDqhOS1e2mpbFT56g">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/CrJdnryhY9pog0YbAt2tH9wU">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/r7GPTFKWPei0n2JEJwolgi0B">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Q3tPsaHjdXQQIiS61fUtNpoc">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Uoj9QASaiN4Gw_7XAZkXyAKC">Bölüm 9</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/EIGV1Ds39d4GGLhwbEo2Ci1D">Bölüm 10</a></li>
+  </ul>
+</div>
