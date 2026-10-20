@@ -1,0 +1,12 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-262793" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/4vP7RjEQf1_vlJQWhCGSiomi">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Oo1qFqEXiDvPW6sJmt6F0hLs">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/yW1XUCNWzbApPlewk637bCRB">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/H1ibUz7FcmXIJx1AgQoABKh1">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/1nFGKzNbqgx7c_0meRBL_eTU">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/JNxNT9X89BeUFbP4nKQ_swpR">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/gex8IhpfD9VBoR6Hf1wGgRcX">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/5KWlp_VoUVdX6SYAbnGFiNBX">Bölüm 8</a></li>
+  </ul>
+</div>
