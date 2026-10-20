@@ -1,0 +1,13 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-270476" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/awVDok7OllT5U0ZhHwAmoFZF">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/a68XvS0zG9GHHFdBg0us4YXO">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/xzO2KUE0FiM_GKeIJUEdx6AJ">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/IcQiiqXrUuX1t_TxvKJqLktJ">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/FojOD4ByTwasunHcuhv74pmx">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/IwnqX8qU610Dvo03DdpOq6as">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/hjx5g_ctxVDtMZmQA0Fs4VP2">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/ItdyK8oQ_jGwxTVydJlPzMwc">Bölüm 8</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/f2KAuPk1fOj2R7mgp8L1KxRh">Bölüm 9</a></li>
+  </ul>
+</div>
