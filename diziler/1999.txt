@@ -1,0 +1,34 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-1999" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/HmI8AudlQK7MQn4W0nX5gcWl">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/iowZR7gnLb6NL5pT_iNh_H3F">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/wnKQM5lTtF6GBmsDumvkYTkt">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/QwkR80ux2VrDP1Obl_hOSX2B">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/P4xEWfb7NTSN7WcP4DriSSJ3">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/QfKD6plMOFyoZ7cGJNeFO4lt">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Q6mtgkX8kxl32GQWs44u4Igm">Bölüm 8</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/JNjhDAn0ZOdZ05AZGi7q0GsU">Bölüm 9</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/mP4L7G7BAV5VV6DnC2mr7XrS">Bölüm 10</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/FZM3jx1B65A5daJZ7mOwiizm">Bölüm 11</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/HVt0Xw8iqOh4UQh6TRQa2oQV">Bölüm 12</a></li>
+  </ul>
+  <ul data-server-name="2.Sezon-1999" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/drnnp4eJHTvArYGGMCooww2l">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Rel22fnjr6NlhmnLA3sp16hR">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/1P2g9Kd7sEuCtvxYYUcL5cPl">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/vPmKMbmXltcb9hcbVwsPcRrC">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/YNTeYTZpLC8lZvVWyFlNpxwY">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/UUVlBuAY3C8REUVa527Lrlgr">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/_VnBpuRhbnPZDW7nSd4b7QwQ">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/UNSAdrTKz2YV2ItVtPJRVP7F">Bölüm 8</a></li>
+  </ul>
+  <ul data-server-name="3.Sezon-1999" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/0_Zaqp83nYqd6zlaVFttvLfw">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/PGX_zVkusA4Au1KeUncVWudL">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/WzIkGPcF1AT05zkbTgjIw0pZ">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/dP0tjE8sxdRkLopLfh9NUocp">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/hwua2Lv5z90RgSfOGGiGaXkT">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/lQRXEo5Ajd7W25tgFUJM2zNJ">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/rohot0bmDEA8CRG2FNV3wf_l">Bölüm 8</a></li>
+  </ul>
+</div>
