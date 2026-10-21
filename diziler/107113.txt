@@ -1,0 +1,42 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-107113" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/jV8lPCemJ7j9egILdvO7vIfE">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/vb1nXzZEPx0qv_P2C97mApLN">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/nNLgOOeGU3RXJYj5vVWNfiCr">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/k_NHED1xvB0NVgtcRzNZtYR6">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/EM6_mAZCmC6KKnLXssGm6Rct">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/MtZ1Ox7rJgGxXrggI6HRNNL2">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/m_fDFe0j_FXYKJRdsZmQuDmI">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/MmhkECOyzzHAfV1av9deDrXH">Bölüm 8</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/4oKy9DWDZw25AUI3frxGeKDa">Bölüm 9</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/IAEnKrMS5yabKcECshrq3v9C">Bölüm 10</a></li>
+  </ul>
+  <ul data-server-name="2.Sezon-107113" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/pN7MDi3Iz3zV8LDm7wFokrzM">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/VgK1k8PyqWnqgEX6Rgh7VvBX">Bölüm 2</a></li>
+  </ul>
+  <ul data-server-name="3.Sezon-107113" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/T95C2hze530uAGgdnfA424Zi">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/mtX4O3AywbhPFjVcBvJOYtnY">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/SOWDUOTVCtAglpKdVxnfpRet">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/KKuiyJR64Psas040uodtCPgj">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/VG_DRxz4cu3cIIwC8wk521Dt">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/dH1soE4DJv98jQIM2XRe0p7L">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/lZ558U6waWX13Zxdv3Pn_qT9">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/DlM0qFJp_J_vMA_sQkdPckUM">Bölüm 8</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Dpe0yrV_BvpohQCsKlzyYN9o">Bölüm 9</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/x881VhUGXGJjhtj5WNQnQP_F">Bölüm 10</a></li>
+  </ul>
+  <ul data-server-name="4.Sezon-107113" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/WF_IEpDgsA4u3BmGGournTGn">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/yA9sqC7mHHcataU4vTkYFmoh">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/sa0mlcHWMx3E04N6Bgoep0hz">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/lwTaweO1o2ShhKqpjvZuY7Bm">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/sggXfCRqzk8lut7q8gw3OX0I">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/MSwdEFAzO2cvX3wLDCZZf6qd">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/pVOVPT_2X0taS9ccERF3yoNs">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/zG7DkzOWzkqYKrNJwSufXuIT">Bölüm 8</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/bxdIM8R_XwLU6XF26yaP7f2j">Bölüm 9</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/hfMOk00BIllQ6jwad2fpnw2R">Bölüm 10</a></li>
+  </ul>
+</div>
