@@ -1,0 +1,14 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-4613" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/hWkE5NdjWirgt2m9DVeXKarK">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/NY826ONBO2jGwbZwal8bmn1D">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/fpkJlQQQUnvsGkHZ7ZlCQcny">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/zviurj5u_zJXTdHgwAbGQ0xg">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/ps2Kn12v44oKSlhrsgtW9qJ0">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/jO90jS22MpV4wmOJXk8g2kzc">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/tIhb6BrCKueJyqwYu2PulMEc">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/ZYPpyGWfgeEYotPlrB2AcNjz">Bölüm 8</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/m2q1S59DSO77Wv0tpEhRDkzJ">Bölüm 9</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/He4nhw1jgLHbVknCWgmpgpwy">Bölüm 10</a></li>
+  </ul>
+</div>

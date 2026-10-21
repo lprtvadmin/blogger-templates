@@ -1,0 +1,9 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-87108" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/uHynd8e4o5lHrnjiBSy04bAA">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/AAcXcTgOxqLf1TlrdYtQruBa">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/GHIYoTf3txf_tvu5cVX4cSVe">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/3Rm3SKvU6AtKb9bE2wAtCeEW">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/BmmEQztj83ctuksjWKZCuqwN">Bölüm 5</a></li>
+  </ul>
+</div>
