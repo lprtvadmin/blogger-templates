@@ -1,0 +1,12 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-120911" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/6eFC9Ktltsrc3ER7mpAsixMK">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/kqI7_li6e5tzcf5zBeMaDKmf">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/YGNMsL64VRAPvhSjYoTicQAr">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/_tCViuEWtQzO4zN6ki2_XCFi">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/bUgUsw5ILPV0gesGlU42hbzB">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/pP3ID6piKYKWLxvt1SzZnYM3">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/2o1oFezsYUWUeUeX5Kaxcue5">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/CPDCS8rExRj9EOdXeDzcXeo2">Bölüm 8</a></li>
+  </ul>
+</div>
