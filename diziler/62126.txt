@@ -1,0 +1,24 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-62126" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/OeT_BaylgBBs9yw9pFiyPr5e">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/MRABOIlOIPrFpVaCAXNxtARB">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/46myv0Kc2BTDfTFxRIROjzMx">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/g_Jas2jTpPj9cij_9geF16e_">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/KeQ3A0MN02hnme9q6AFKNreM">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Gu5HO15bGd5b4OyBJXHIAj1V">Bölüm 9</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/p3ZoYD2AHCM28Nfkf2ZFzdhF">Bölüm 10</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/AHazr6UBa_MZgb4udC9DS0YE">Bölüm 11</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/77D_eMY7YUpZfbRLwUl3qV2M">Bölüm 12</a></li>
+  </ul>
+  <ul data-server-name="2.Sezon-62126" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/UatapFvWQ8qMC5aVEi6AdSdr">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/3TZHLmvx1B5I9eG1cjEVfwEk">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/32QFlGrtlHHwcMJERFxKpJHZ">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/QBaf4yULDPxDioylGAUp6hYZ">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/19fwofjZH_qWiP1eAh_VLumr">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/A2_e0xXrDFZrMn84ozAMvvKJ">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/AmQOHhmzwHyqzodRTV7uFkYr">Bölüm 8</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/toKLLb2IeHmgtJZSns_msYmu">Bölüm 10</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/TxDrPjZOs2hLMRtWjk2D5ICm">Bölüm 11</a></li>
+  </ul>
+</div>
