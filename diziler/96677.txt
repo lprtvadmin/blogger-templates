@@ -1,0 +1,34 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-96677" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/8w_bBGZXOwPpiQM_RN_WXnSm">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/tlVRkJKoqFbclokDH8xtw1Ad">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/mY2FIfD42J8MdGqaIGZ3qlNv">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/jfIHCevK9gI6PEvdl77fu0og">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/wJJGJDzUsEJKN8KngaDYc14p">Bölüm 5</a></li>
+  </ul>
+  <ul data-server-name="2.Sezon-96677" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/ZAgC1FkPXxQ6UxUtcLR6g5T3">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/mI5gSjJPZqDbhe_zWwrGH7Zh">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/uhXwE5V8K2Nx92VnsQR4f9uq">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/YHtEDLoK1jKCQIHDJIpC07WP">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/S9OHmYwonyXVp5PsD0l8bUbo">Bölüm 5</a></li>
+  </ul>
+  <ul data-server-name="3.Sezon-96677" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/KSpfdEIT8NAbXArIufPio8c2">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/viT59CIj10uDUpgLJBO_JzIO">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/AWXJ1Qczv1mumDZnWXdf653R">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/5VUZ8hTdCqlpM13ICndPHQmR">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Wp6LQt66vK6cyrDgUMnJfL6I">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/HVcyyI4y1IyxdZfQDk1gyhss">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/yPtccENlql5BlBeO9LF80fVf">Bölüm 7</a></li>
+  <ul data-server-name="4.Sezon-96677" data-server-logo="">
+    <li><a href="https://rubyvidhub.com/embed-fvb7saqj3cov.html">Bölüm 1</a></li>
+    <li><a href="https://rubyvidhub.com/embed-hkko2pc4necy.html">Bölüm 2</a></li>
+    <li><a href="https://rubyvidhub.com/embed-w09letqi8qd8.html">Bölüm 3</a></li>
+    <li><a href="https://rubyvidhub.com/embed-m3m24aqemlvf.html">Bölüm 4</a></li>
+    <li><a href="https://rubyvidhub.com/embed-okaaxtl2nnc8.html">Bölüm 5</a></li>
+    <li><a href="https://rubyvidhub.com/embed-s7vxejmwadvx.html">Bölüm 6</a></li>
+    <li><a href="https://rubyvidhub.com/embed-x9qpf4gqwxv3.html">Bölüm 7</a></li>
+    <li><a href="https://rubyvidhub.com/embed-gegvci6sny92.html">Bölüm 8</a></li>
+  </ul>
+</div>
