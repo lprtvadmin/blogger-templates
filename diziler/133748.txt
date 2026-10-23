@@ -1,0 +1,26 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-133748" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/E49sny51RbtBeh_3docFPKiJ">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/zbKKYMvXjYa6hPkg9S6d9wRy">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/XFG9meB6XMpH7n8er3USw4Fx">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/S2YLz5dOgkek7C40gLmdTAF3">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/V0T1MF4qpYW3FJ1R28ReeNfq">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/_9A1jHP7wLQ8VmwlpnJA8wK2">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/YOoNxbeOtnkWKJcoHe6xP3Rx">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/MUk5EXqypnK4lVw103GxLnFw">Bölüm 8</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/V8eA6guT0tquBnV3N048LE6V">Bölüm 9</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/M3YiIKMVXrRZi0P6zNnw9IuM">Bölüm 10</a></li>
+  </ul>
+  <ul data-server-name="2.Sezon-133748" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/MchJAi9KviscIHeyI4mOqVSB">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/UNjbTl1RgmSm8WuC_Q3_Om_U">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/8lK_oczbjB318vrSZ0Nsv0rS">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/1O1C1HV153O9XA_55zgzUKg1">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/BJjj87ekpDejOHyNKxfqdApk">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/zqltx6Hv1l5mXUWr0ByNWOLe">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/gRNYZE_XKqmaBDvIbchs6qLo">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/fI_1dypdcjaDdL32d8QWreqn">Bölüm 8</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/BBbNIvr_l5oSRpywFqOiMzy2">Bölüm 9</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/D0thnof0bsFhnSIojrb4X0JZ">Bölüm 10</a></li>
+  </ul>
+</div>

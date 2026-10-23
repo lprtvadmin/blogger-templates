@@ -1,0 +1,23 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-85021" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/aG743pmkJWOJaNlSvrteLMDZ">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/AE6A99c9bRA8pvL4yrAFGh46">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/PZsYWSZ_dvMKR7qbq4qiUr6X">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/atIVKJKBYPg_BISWcpRRAqm_">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/OvsZPxt9kgMkQ5ovgLa4HyVw">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/gbDxIqlH5P_9eByIYRBw6dl_">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/5JzSII0uT3gCVJ3Sp_IyEQaj">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/SKKKMjaIAQhCyRQicnM1k0Db">Bölüm 8</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/xY54p1VgrbkKF1xKvoJy2UV9">Bölüm 9</a></li>
+  </ul>
+  <ul data-server-name="2.Sezon-85021" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/PIoEXbgkHjdnCwWc5LS1eiWk">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/OlJlhinsvgqG5_C8zyrwCHJL">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/M5xXpAc8EW63201sEkbNoMLH">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/fX0HZ4BDSiDiGrwtCZ_fCFJ5">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/7yBcpkJs0BlEDKxNOhued26i">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/mxdxn5FqV8iRHZ0vTW1O4acn">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/c1y8sqDC2hInuc4uNU1G5wyy">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/LFKvSQsK13rMfTMGZxA0fR1a">Bölüm 8</a></li>
+  </ul>
+</div>

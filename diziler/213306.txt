@@ -1,0 +1,22 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-213306" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/4v6RXCiRjYDq03lwlY0m4TDi">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Y2ToeLrlu3VBGitKgzTIkb16">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/a6FMXqw5DtSPvyPOMG26DkAu">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/NBqLj824wH94s87uLr2RW26l">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/76Bg_3o479l38MPea5JjtbJd">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/RqxL0VFO_gtWlo9fVyg1o2wO">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/pJpkLc7empmuyh05UG5vc7ZB">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Pn6Jw2cJHFbpwC8NLBJbjHAg">Bölüm 8</a></li>
+  </ul>
+  <ul data-server-name="2.Sezon-213306" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/lEr3hqIGYDNqR659V7F9Iprf">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/MB9yPRS_WpKgQ4kEx3Tdm2uI">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/_QKfYlQhhVFJ66eNgIYMm_gJ">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/h2IElVWKJngQYffK20uE2rqX">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/22Q5oEhMYtGyuaIpbgQyRD0f">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/DXQRkKMaY6MfBgr3ALbsFtGD">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/OC0maSgBIyHbk0GD61ghkzo2">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/7V1t36g8K3X3ZhBXhMl0IlS0">Bölüm 8</a></li>
+  </ul>
+</div>

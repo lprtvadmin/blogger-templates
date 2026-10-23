@@ -1,0 +1,18 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-96481" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/75v4qQ67ATC3GaS5_JOJlWY_">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Qo1kAgtNFXYQn7XBOOJya_WA">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/sF0F9teqjTdMPCujX3KRJCyT">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/kLel6RdcWh_dnbEBf_SB1yTY">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Xo3c0vGi1bbNsJCCOKtznn6S">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/YDp7RyQtP9LOZaR8afIoonEk">Bölüm 6</a></li>
+  </ul>
+  <ul data-server-name="2.Sezon-96481" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Byzt96NuKG9AG92gVFivpQUi">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/U20nI02h81ZeDtHvh36_w5bC">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/v7_Bpq44J8TQ3U6nfaIm6OrS">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/tDyEDd7c9veHYsWSExQkHPGN">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/a4vm63VPpqnM5griMocVypqS">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/LcFllQau_yZBCLrjB1_1EBbZ">Bölüm 6</a></li>
+  </ul>
+</div>

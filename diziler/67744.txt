@@ -1,0 +1,25 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-67744" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/8xgDY4Fe5MsXcuqNXMx6N3cR">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/I77Y506qKLZXyRM3elojmoIf">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/4Uaqj6veYqUTFZoMMBXdkkT4">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Z6rhyUwyf5yWS1Pal96cvNWC">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/_7Ia5DN_91eDXLKhPrCn_S17">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/u28n0L3VLrOuXTnLLHztiC8Z">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/WM5tnmLvIgILRWC4HP2cZYrq">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/MvmhVjLtydZBan9fYXdsPBMh">Bölüm 8</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/4nbHX94FufmyMPeHY6O4kxTl">Bölüm 9</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/LbFxARTfhPZJsE8RUYG0g3wW">Bölüm 10</a></li>
+  </ul>
+  <ul data-server-name="2.Sezon-67744" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/DPjGyv3Quraznhh6b68CzSBB">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/9lgP24H8saM_IkkShv7MmEPi">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/ebBbig3KwqMEOLVhJtx0c_gv">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/RrcvZ_JNtWjjSrOPc_inLkOZ">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/hAYs6yVS3PrGOUr9yDi_jkww">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/XxNAJpwMFKoMfkC19Io6ZW5a">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/HFlYFFgrdeC33jy9652QrkZu">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/mx1SfxyqtKeuI9d3LCzUxqO8">Bölüm 8</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/PHpjXKdH6HPc1Ecrf5Ol4Jjm">Bölüm 9</a></li>
+  </ul>
+</div>
