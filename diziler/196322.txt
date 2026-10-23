@@ -1,0 +1,22 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-196322" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/K7c1M1l5EGdvif13J6M5ArQy">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/0My0qYukwwvn5BIK88gShean">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/W8Mitpi3hVNsHjvzqmF2kvlr">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/imWcCjDXzWi8X61E7VAVFt9M">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/KCOtMk1j3I33OwWrYovvPBaz">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/POQ1Ue9xPEYqoVBNGAToQ_o4">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/HmzAUU1OGBOOwHvUcDna1yzB">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/YTFOydHzNk0Vys8lySHP9lbi">Bölüm 8</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/f0Ww954rVEwMKXwJwnswiNbC">Bölüm 9</a></li>
+  </ul>
+  <ul data-server-name="2.Sezon-196322" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/toP1CeNFS0CApOIgLIO6qNrm">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/BW5LyecRbYy0RiTq6UKrBU20">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/GKX1J0tmlHpAj1BRBheXVTYY">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/tj_Q7puqwJvmb6IKUq00IFGe">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/dzp6kRgwgBKTWOHxXt_BRD92">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/OBZlUG3qWaTyp4CrqFM9M8bg">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/mZspjddOOXYVdUWN07nCopoz">Bölüm 7</a></li>
+  </ul>
+</div>

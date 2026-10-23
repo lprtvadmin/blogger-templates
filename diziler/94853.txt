@@ -1,0 +1,22 @@
+<div id="episodes-data" style="display:none;">
+  <!-- Dublaj (Streamruby) (Sezon 1) -->
+  <ul data-server-name="1.Sezon-94853" data-server="Dublaj" data-lang="dublaj" class="server-dublaj" data-server-logo="">
+    <li><a href="https://rubyvidhub.com/embed-pdj2sl999kn5.html">Bölüm 1</a></li>
+    <li><a href="https://rubyvidhub.com/embed-kugeyyvs79pk.html">Bölüm 2</a></li>
+    <li><a href="https://rubyvidhub.com/embed-w7ecwc8ebc2z.html">Bölüm 3</a></li>
+    <li><a href="https://rubyvidhub.com/embed-b5tdu3e3f39u.html">Bölüm 4</a></li>
+    <li><a href="https://rubyvidhub.com/embed-iv9yofn32i6i.html">Bölüm 8</a></li>
+    <li><a href="https://rubyvidhub.com/embed-6i7dnfksl6cu.html">Bölüm 9</a></li>
+    <li><a href="https://rubyvidhub.com/embed-r2mxnrfzlgwg.html">Bölüm 10</a></li>
+  </ul>
+  <!-- Altyazı (Streamruby) (Sezon 1) -->
+  <ul data-server-name="1.Sezon-94853" data-server="Altyazılı" data-lang="altyazi" class="server-altyazi" data-server-logo="">
+    <li><a href="https://rubyvidhub.com/embed-rjjt2d3vjh71.html">Bölüm 1</a></li>
+    <li><a href="https://rubyvidhub.com/embed-9iiqjb5v8sge.html">Bölüm 2</a></li>
+    <li><a href="https://rubyvidhub.com/embed-wkik80tus3pm.html">Bölüm 3</a></li>
+    <li><a href="https://rubyvidhub.com/embed-fagwr21r4r2d.html">Bölüm 4</a></li>
+    <li><a href="https://rubyvidhub.com/embed-9hm7z1q696mc.html">Bölüm 8</a></li>
+    <li><a href="https://rubyvidhub.com/embed-140bjqpf0ldu.html">Bölüm 9</a></li>
+    <li><a href="https://rubyvidhub.com/embed-uo8ob9ji9ynu.html">Bölüm 10</a></li>
+  </ul>
+</div>
