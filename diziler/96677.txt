@@ -29,11 +29,7 @@
     <li><a href="https://rubyvidhub.com/embed-mexomlvpbkil.html">Bölüm 2</a></li>
     <li><a href="https://rubyvidhub.com/embed-qgvgowp1qwo2.html">Bölüm 3</a></li>
   </ul>
-  <!-- Altyazı (Streamruby) (Sezon 1) -->
-  <ul data-server-name="1.Sezon-96677" data-server="Altyazılı" data-lang="altyazi" class="server-altyazi" data-server-logo="">
-    <li><a href="https://rubyvidhub.com/embed-8yyqxdghedse.html">Bölüm 1</a></li>
-    <li><a href="https://rubyvidhub.com/embed-mzqpthleya63.html">Bölüm 2</a></li>
-  </ul>
+  
   <!-- Dublaj (Streamruby) (Sezon 2) -->
   <ul data-server-name="2.Sezon-96677" data-server="Dublaj" data-lang="dublaj" class="server-dublaj" data-server-logo="">
     <li><a href="https://rubyvidhub.com/embed-ryxoelubp0c4.html">Bölüm 2</a></li>
