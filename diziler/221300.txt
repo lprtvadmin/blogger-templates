@@ -1,0 +1,22 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-221300" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Do_eYK5ycM6HtyGZOFm2Eu2S">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/pBx81o1o7zgwiT4n8fz5jvaJ">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/wpSSEumShnc1VSkP2o4KgfZG">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/RAzhJdsAfSnKXFkHkWK5HNBY">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/FyznhKHXyLlPdeIx8dwB11Em">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Exu2JV0_KFHd7QAi_xaPNt_O">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/ro45nEyarcb99IC7LHoqpMAt">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Q_VAyuvXtKMeFqyB0D0pdfph">Bölüm 8</a></li>
+  </ul>
+  <ul data-server-name="2.Sezon-221300" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/QaVDDq5kkl5Pgs1K5R1EqqUZ">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/WYG_x1NkSxtRcXKMFRh0PmJL">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/PVGXuolWZqg5RkHf_YaHdtpe">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/AjdYMptE8nPxcDea5RYrRDNj">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/ZsOSQPOvGAxV0mIj0TmkGJ_O">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/9Ai7slcDpJrynS1AnW27QXzv">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/51ztHelLqnXtwpI_vZoiyJif">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/bo8U0QBXRn7CR6QciTN6nImg">Bölüm 8</a></li>
+  </ul>
+</div>

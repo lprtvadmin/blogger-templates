@@ -1,0 +1,35 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-67195" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/DxD16cbkneBlhTAl11rzQRnl">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/mYxkyoBEvT3ozwvMCzKBpsZN">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/HGkaSqJaIZKIwnnE3eD_7Sx3">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/9goKIhMjpjVcKjMmeJqVHTf7">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/TRi0dYDONLm3wNSYLgYqFzvk">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/KdlFUzFa4hCE_kPLCDXCL8Fb">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/u6aVsBGqNcvyLAcaQmuw09gh">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/N3HYz8esuZ8h4EDWHGNjYNZJ">Bölüm 8</a></li>
+  </ul>
+  <ul data-server-name="2.Sezon-67195" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/qlbG2qpBh6ZYj0Pm4CtG4EF2">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/tQ_B6yi2Xtwdtd9xvlG00Grr">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/CQ3lh9gbqIlXfBjYssBKb5SH">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/4XRcB5rrRwT9xbGoATGLRzib">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/m2xBm5X6El41wbiu4YdVvC5t">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/LOZfOcDu_RZpXg34nDeaWO3S">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/gdst5lMSy1LCVxTUeY_8Pjbj">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/nEunAZOCQa61bJ8bKj8J52fK">Bölüm 8</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Ip2yZS8wXr5y4cuNv5cf_668">Bölüm 9</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/ySHyZrjWddefxei1rBv9_x7E">Bölüm 10</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/tryO1cSsEwYTVVzli7rdf6iD">Bölüm 11</a></li>
+  </ul>
+  <ul data-server-name="3.Sezon-67195" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/_6CO6VNu39wKxeC_PVr4_vlK">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/LOk_z6gvdgPexIIJFm4Jg6il">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/bZnV86N1sBntoPJ7VZSg7i1n">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/7QfZMOVKRKta3hlLFg9tmxwA">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/95v1egLW0jguHLv4PdLE0Ipv">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/hDPqSpEuv9bs6cu4wEI3Pq6E">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/q_75RnsQJvKovk1q5c5RVzDH">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/XPW4K6EPUTJh2dWpt0L3P_RB">Bölüm 8</a></li>
+  </ul>
+</div>

@@ -1,0 +1,12 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-313357" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/iTXgFNy_Y2VqiDjyIfp5FcaB">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/_6BNhdAwNh1uhQkCvtW5L8M6">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/vuF5SYDUCdTbLOlp61iz1eis">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/IcCJ0e1JYJnB_zRerG9bNmth">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/5asdwOcZMtSfFdTgzq6Qfng7">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/mJP0DWgEYUqEdtAJVfaVkA4h">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/ogcSbDWL_eET1SXSlYgA0_HC">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/yiAPhhwGiw5isW2UTR9eSRmr">Bölüm 8</a></li>
+  </ul>
+</div>

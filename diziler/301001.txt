@@ -1,0 +1,11 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-301001" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/BiO01Y06uGlO2Ju25O9hQOc1">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/wjiFbjAgp0Amlrq0Tq58OByC">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/2pgEBeHm1qvspN4jvNBduzkx">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/WcsWZhVHvt6ajTI6TvoVmUFv">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Ycv8PRaPxS1augXkHdzDxjLJ">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/BxcjvtuiwYPyyZhEm1jlb8Qh">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/_mtUKrXVkExKOjLti7FFJmJX">Bölüm 7</a></li>
+  </ul>
+</div>

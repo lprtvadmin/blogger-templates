@@ -1,0 +1,22 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-89440" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/SLpNHuTx_k8aZp0FPF5V4IHX">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/SJD879Y9sH46ktbkLcyYesxL">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/0mx2xWBEXm43ghl9Z73JLTo2">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/1N73O5qI3lB2naUKEARqb5Fe">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/8Xr3RjtnYkGu4aGPxev73hLo">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/opb2DVWU5jVGgUCsmd4GLZUW">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/U5YJslFedCHNIKw9AhZJIisw">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/HUXzcuyaSuDo8FBqOYMqvtMQ">Bölüm 8</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/ktT6GsLxzX0mDW7eIfUKPF56">Bölüm 9</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/CjUTvnGLXimHstMGCUgXHvU5">Bölüm 10</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/CFZZ7RXP73wz9MzID75Sh2yA">Bölüm 11</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/LuOgGmyzzDZvEXCys6Dg3T93">Bölüm 12</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/xSSZQTZQQDHXeU3cSWDs947r">Bölüm 13</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/jXCXhIQN1B4IbRfDocEWvkp2">Bölüm 14</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/lkxZVBavb8lsNbjMVhZyzTIR">Bölüm 15</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/ckgqdmtl6fdOAVrvQkwQ5awm">Bölüm 16</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/D3LL7kIqvgfLOmkJw9bUuvbD">Bölüm 17</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/DWRgq2uffvJB58_qY3OunJKt">Bölüm 18</a></li>
+  </ul>
+</div>
