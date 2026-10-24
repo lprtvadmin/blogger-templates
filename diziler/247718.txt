@@ -19,4 +19,33 @@
     <li><a href="https://dcdlc9f2bddfff97.xyz/player/huwI4NmCbQMy4rJfguwajf9b">Bölüm 5</a></li>
     <li><a href="https://rubyvidhub.com/embed-ipb4699zey2y.html">Bölüm 6</a></li>
   </ul>
+<div id="episodes-data" style="display:none;">
+  <!-- Dublaj (Streamruby) (Sezon 1) -->
+  <ul data-server-name="1.Sezon-247718" data-server="Dublaj" data-lang="dublaj" class="server-dublaj" data-server-logo="">
+    <li><a href="https://rubyvidhub.com/embed-6d5h5zbgr2gu.html">Bölüm 1</a></li>
+    <li><a href="https://rubyvidhub.com/embed-68ndtdfz2cl9.html">Bölüm 2</a></li>
+    <li><a href="https://rubyvidhub.com/embed-4r3n20u6yjg6.html">Bölüm 3</a></li>
+    <li><a href="https://rubyvidhub.com/embed-sl2pse0y7w34.html">Bölüm 7</a></li>
+    <li><a href="https://rubyvidhub.com/embed-trm5vfgeibwq.html">Bölüm 8</a></li>
+    <li><a href="https://rubyvidhub.com/embed-nmmhh5egl8a9.html">Bölüm 9</a></li>
+  </ul>
+  <!-- Altyazı (Streamruby) (Sezon 1) -->
+  <ul data-server-name="1.Sezon-247718" data-server="Altyazılı" data-lang="altyazi" class="server-altyazi" data-server-logo="">
+    <li><a href="https://rubyvidhub.com/embed-m5ornuod5txy.html">Bölüm 1</a></li>
+    <li><a href="https://rubyvidhub.com/embed-50jzkvt0sol8.html">Bölüm 2</a></li>
+    <li><a href="https://rubyvidhub.com/embed-u14npr3gojve.html">Bölüm 7</a></li>
+    <li><a href="https://rubyvidhub.com/embed-y7uehm51auq2.html">Bölüm 8</a></li>
+  </ul>
+  <!-- Dublaj (Streamruby) (Sezon 2) -->
+  <ul data-server-name="2.Sezon-247718" data-server="Dublaj" data-lang="dublaj" class="server-dublaj" data-server-logo="">
+    <li><a href="https://rubyvidhub.com/embed-1693801h3a1a.html">Bölüm 4</a></li>
+    <li><a href="https://rubyvidhub.com/embed-t8l6hm4fc7yc.html">Bölüm 5</a></li>
+  </ul>
+  <!-- Altyazı (Streamruby) (Sezon 2) -->
+  <ul data-server-name="2.Sezon-247718" data-server="Altyazılı" data-lang="altyazi" class="server-altyazi" data-server-logo="">
+    <li><a href="https://rubyvidhub.com/embed-k04tj9t2cest.html">Bölüm 2</a></li>
+    <li><a href="https://rubyvidhub.com/embed-veti3iaq42ar.html">Bölüm 4</a></li>
+    <li><a href="https://rubyvidhub.com/embed-vz0tzouae6na.html">Bölüm 5</a></li>
+ 
+  </ul>
 </div>
