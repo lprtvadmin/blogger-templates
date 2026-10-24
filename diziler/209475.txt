@@ -1,0 +1,39 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-209475" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/NBipv8OR2Nze3T3yBhuym7J0">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/xGpPW0Y63v5gGT09HPN1YBOU">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/PPyAxcEzDmPuxD0b1MzaVJ18">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/mUohM7pvBKMnMk06kOgVZG7w">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/8DbGMqEvB9zdlI5Oi8VH8G0R">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/SdM3LSDjVYr9WjIyk5TR8dwe">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/trav6rCJd_gBgotplqE0iKjK">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/_gVVvE3zeavBbbnyQP3N8yCB">Bölüm 8</a></li>
+  </ul>
+  <ul data-server-name="2.Sezon-209475" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/OI2AK72pR_15BQu2qk1weOnn">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/U0wxz2J8aWf0Yl0vgZTuSgK4">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/eogIWUcAsQZSe1TexES5L8jv">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/eqNWEPKQpXh7CJRBkDxtpgdG">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/u9hlQCGfwfPaOkBaDqBnovc2">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/I4RILbSZ7jb3d3TnSF2ep7XV">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/xNjNhWrcSrNdqHznVhuKP9dT">Bölüm 7</a></li>
+  </ul>
+  <ul data-server-name="3.Sezon-209475" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/kmMpkSYd0ByR_cMY1mokugsR">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/LFTEPvDZ_HK7qjTltnpU7UbP">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Rwkqmjg2Rr9ETq6KHOgqqhLi">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/UYU1Ov8jIIiy3OzXUH7APbHb">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/LGIwgVK23nT7eloLhh1UvV2l">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/6a5Fpre2lmqtudWkHaB1y_z1">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/KX67Maoxz_8e8CysWzMFm_Ee">Bölüm 7</a></li>
+</ul>
+  <ul data-server-name="4.Sezon-209475" data-server-logo="">
+    <li><a href="https://dizipalorijinal20.com/api/embed.php?slug=cekic-ve-gul-bir-behzat-c-hikayesi-4-sezon-1-bolum&domain=https://dizipal2143.com&cb=3">Bölüm 1</a></li>
+    <li><a href="https://dizipalorijinal20.com/api/embed.php?slug=cekic-ve-gul-bir-behzat-c-hikayesi-4-sezon-2-bolum&domain=https://dizipal2143.com&cb=3">Bölüm 2</a></li>
+    <li><a href="https://dizipalorijinal20.com/api/embed.php?slug=cekic-ve-gul-bir-behzat-c-hikayesi-4-sezon-3-bolum&domain=https://dizipal2143.com&cb=3">Bölüm 3</a></li>
+    <li><a href="https://dizipalorijinal20.com/api/embed.php?slug=cekic-ve-gul-bir-behzat-c-hikayesi-4-sezon-4-bolum&domain=https://dizipal2143.com&cb=3">Bölüm 4</a></li>
+    <li><a href="https://dizipalorijinal20.com/api/embed.php?slug=cekic-ve-gul-bir-behzat-c-hikayesi-4-sezon-5-bolum&domain=https://dizipal2143.com&cb=3">Bölüm 5</a></li>
+    <li><a href="https://dizipalorijinal20.com/api/embed.php?slug=cekic-ve-gul-bir-behzat-c-hikayesi-4-sezon-6-bolum&domain=https://dizipal2143.com&cb=3">Bölüm 6</a></li>
+    <li><a href="https://dizipalorijinal20.com/api/embed.php?slug=cekic-ve-gul-bir-behzat-c-hikayesi-4-sezon-7-bolum&domain=https://dizipal2143.com&cb=3">Bölüm 7</a></li>
+  </ul>
+</div>
