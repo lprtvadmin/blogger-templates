@@ -1,0 +1,26 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-247723" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/yFANXrbnEpq6ZN9L2LwEry0W">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/OGCK2CDy98mP8DyI8M0rxlPl">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/J9lueIE3KHSfrAJ_ae2L8o3R">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/S0v70CGr39R8ieMZCFA8A3rd">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/XcTk9vvDUv0pL7HQTfGOe9G0">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/8nR5Q0z27KJ5qFz5k5cM5WcG">Bölüm 8</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/fmEEyKBR_fQDfbNShGOfBfc5">Bölüm 10</a></li>
+  </ul>
+  <ul data-server-name="2.Sezon-247723" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/DsON5va6d7aO_CjPCYNW5fJ0">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/9212K449pMzPJihYMsm1EzK9">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/TLCmI1U856Wk8mibsiQPfiLZ">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/AIfUhmOx3ljvCKrJS0r1ZEhc">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/nXKg2Na_tFR7WihQcUw3MRKJ">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/x_lJkLyaJGTE3VV9C4UZtnOz">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/zoQHB4_7qaKqa_wFZ79DLN2B">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/c7cohZ1R02OcamZpCytU84sa">Bölüm 8</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/j72mUCFlBNxsJfQ2lb0WlzpN">Bölüm 9</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/kyAYbJfOb2_62vAxLnhcX_9X">Bölüm 10</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/gHXE7QhxMzfDYY04FE75ogh5">Bölüm 11</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/8VZ4D_Z4ZGhZeHyFkWutXXrC">Bölüm 12</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/15KyVv313ZimWPoFdfv01N1c">Bölüm 13</a></li>
+  </ul>
+</div>

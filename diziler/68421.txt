@@ -1,0 +1,23 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-68421" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Uzrb77F7VomIvQrb5PcqgL4A">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/X_3dj0wEcXJmHZL1fMH2jydq">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/DHpDg2HHEHVwp1AgfJmQFBP1">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/cBoa7egIvYUHeblQGhPmkM_m">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/GMVmR6s6PvnfBwaWzyLq6zXb">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/GVk5hxxb2U4AusyQr2QiU1HQ">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/_G9i_XawXT3_QvQaUUXkJ_sl">Bölüm 8</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/dPTr9aybT2x4CNyb3J7HbQtY">Bölüm 9</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/jqHVDqUgMnBMm_QZ60yn_1Dx">Bölüm 10</a></li>
+  </ul>
+  <ul data-server-name="2.Sezon-68421" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/57nUJvcx1aU6RbBoNrm5KmL_">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/gi4sKs1x_Lbfxx5gWQLNSgDC">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Zbo2eJV7Oq3J95bMw1ZluLLT">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/iIcy6RpWxK4ujYTRQmFlNYnG">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/UNLqUI8MsSWTSqwh9s1uItIn">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/cH4G7xTGqiqu9xpr3lNEeH2U">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/sV5k_F2e9vjSFwJGEz_Cf1Pe">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/agVJES2RMrnM9pprhTgF_U8Z">Bölüm 8</a></li>
+  </ul>
+</div>

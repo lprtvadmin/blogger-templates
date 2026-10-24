@@ -1,0 +1,17 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-67070" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/LPd5h7pIkWocbmLfUmBBcyyn">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Xw6XTovLU0CygbscKPvVa7ih">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/_PVSfFq8ncVhBXPT4d0Zs0JA">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Csyf9BKVTeHQFAxecekQiLgQ">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/59pqov7l3Yz6Rm_8R4Yievzw">Bölüm 6</a></li>
+  </ul>
+  <ul data-server-name="2.Sezon-67070" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/U7IZgYeYV4MBPuvpnysJhPmk">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/2qV8bsK4rLPvsIta4v77qGmI">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/obHAIN2kQbQqZyF4OuOSNMCb">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/wQmj8fnStgZBUsJy34LZouII">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/n0wI4mNoVhhdSPC3S9aJfv1X">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/qmzfuMcY9QJiPOpFLy6HTjKY">Bölüm 6</a></li>
+  </ul>
+</div>

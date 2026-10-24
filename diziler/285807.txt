@@ -1,0 +1,10 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-285807" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/FpLbKOCr5qGAn2ZLzJtOsL4X">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/CH3simEGUbplgUGPum4r9RLT">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/y4h3JFkNNJ3DemfMc5DPBXRU">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/7UYEB6xfzzKpbXToCJ8lxFmb">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/EC5klMtRXW3f7K_ezutexO0D">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/ls8wa6lTBPJT2XJ7FV8WVkjC">Bölüm 7</a></li>
+  </ul>
+</div>

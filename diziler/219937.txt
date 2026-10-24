@@ -1,0 +1,14 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-219937" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/PA4khu2xQ7cMgxhmaY7rBdMe">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/TML8nhK94vZH9TnQRbwcowrh">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/8aZy6zMMOiPgjazSip9V14C6">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/akv7Aj81bbsPqs0YzolN7Rgi">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/CziaGw0nxYsdq6HBf2H0HZhB">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/_L0H8N67freFMdHbasG1pwhM">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/hddUBQDA8I6KU3uoWveKW3bI">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/UFG5h_408KD8YfGCXLuwwhvO">Bölüm 8</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/qKgZddPKsM3v5kopDRzhE78i">Bölüm 9</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/DxxBWWadedYptwtbTkK3NiBA">Bölüm 10</a></li>
+  </ul>
+</div>

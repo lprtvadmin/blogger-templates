@@ -1,18 +1,15 @@
 <div id="episodes-data" style="display:none;">
   <ul data-server-name="1.Sezon-231280" data-server-logo="">
-    <li><a href="https://dcdlc9f2bddfff97.xyz/player/ocpDWbSqnDtFGe5k7JapZtnm">Bölüm 1</a></li>
-    <li><a href="https://dcdlc9f2bddfff97.xyz/player/njvPxSLx76tZlX0NwQnkEI9u">Bölüm 2</a></li>
-    <li><a href="https://dcdlc9f2bddfff97.xyz/player/ulHSq1ZqoXrhcdIjSNC5OWRC">Bölüm 3</a></li>
-    <li><a href="https://dcdlc9f2bddfff97.xyz/player/JCRV1rAEn5AtP7fGWdvCFhNV">Bölüm 4</a></li>
-    <li><a href="https://dcdlc9f2bddfff97.xyz/player/AvBu9aY1PKazD5HwZMnJ6r3V">Bölüm 5</a></li>
-    <li><a href="https://dcdlc9f2bddfff97.xyz/player/L8lc2P9w6CHGTt4Zf_yrbO9p">Bölüm 6</a></li>
-    <li><a href="https://dcdlc9f2bddfff97.xyz/player/V0rKQXa6xmv3u1Ew3NdVZavW">Bölüm 7</a></li>
-    <li><a href="https://dcdlc9f2bddfff97.xyz/player/dq0BU8KMEtJJdxFGK_aZDT1g">Bölüm 8</a></li>
-    <li><a href="https://dcdlc9f2bddfff97.xyz/player/vyVrSrfaL_1rlIhAXoIrCThH">Bölüm 9</a></li>
-    <li><a href="https://dcdlc9f2bddfff97.xyz/player/ehJHPi4_NcwAIQCO7k5G_R_Q">Bölüm 10</a></li>
-    <li><a href="https://dcdlc9f2bddfff97.xyz/player/RdqENfuuz3f9mB_Mq5CGZFbQ">Bölüm 11</a></li>
-    <li><a href="https://dcdlc9f2bddfff97.xyz/player/4Lgw9sOQpZgsssYS1lsl3Kan">Bölüm 12</a></li>
-    <li><a href="https://dcdlc9f2bddfff97.xyz/player/gLTVIpZQNz3baYd_VDO37b88">Bölüm 13</a></li>
-    <li><a href="https://dcdlc9f2bddfff97.xyz/player/X_IctilTGvjA06P0SSog0gQy">Bölüm 16</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/61ALJCT1g0pYEpS9poEQnNY3">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/FYMDqm1f9oJg3NmcZfoTwYKz">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/SF1Zyzoriim681DBPN6SXkvb">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/XlY9FXGtb9CMO0FIRUXPzDhN">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/1g4TBKfdgprcve1aNKksS_L1">Bölüm 10</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/5CBBsmth5bPC0oj3UjMvhFb9">Bölüm 11</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/BRsgGyyZjbVkxmcnQM56VKsn">Bölüm 12</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Xmfe87LzNoXtgkXEjoxC4MC_">Bölüm 13</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/w6ny7BWF1eJLoncdRKEkr1ej">Bölüm 14</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/726OhOH5KZUCrmNswD3uEW9M">Bölüm 15</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/C_iPvWsGQaoxoEcuSNIswQ3K">Bölüm 16</a></li>
   </ul>
 </div>

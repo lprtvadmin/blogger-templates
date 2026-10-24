@@ -1,0 +1,24 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-82104" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Nu7yJVR3YZKfxJQKoGkxchNH">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/NhJVkT8hwVna3pNiSqgXVwv_">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/bodruCC9lScC9_BETndVbMCP">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/kzgJGoFSGKmJTBDUNqnHWdJD">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/3fnip15M5uNyoOF7O_gopRHC">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/xPcR_qcJnhYdzR0cmbxFXXuI">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/WFqqd6WuoL5fNr8f1whQWH26">Bölüm 8</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/OLleBZn6lXM84dncv810m4LO">Bölüm 9</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/fECB13rSkLRpLs0Wus9_gB_A">Bölüm 10</a></li>
+  </ul>
+  <ul data-server-name="2.Sezon-82104" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/ZWgyJ08iWiul6qkWdo1AlHAw">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/XUKmw6uCqpJsAlPKFN21Iqvc">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/TNHsBP4b59QlTFdIbQSoWMQQ">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/lxMXVbd7fAqdFLrtOYRADyOd">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/cRjvm8ZFV9djPDEQ23KZDGhD">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/byN73ZkQRC7xY2ZbR0yHprJL">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/EVaX8Lg8vXCSeS9ocDtf5xz1">Bölüm 8</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/C5bohAKbDVVH8ddQmnNCsPmL">Bölüm 9</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/DYcnI5uOrg1W4Wz06KQX_e3m">Bölüm 10</a></li>
+  </ul>
+</div>

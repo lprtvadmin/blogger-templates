@@ -1,0 +1,18 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-202208" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/AtfvBGkYleiIPmINW7vUQ3_f">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/zdskJlB30h9I4jvGqlVc0ZPu">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/zwlBiteWWU_5Z2YuQ182NCWr">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/767Wz0PJyOEjFY9BLmBvHVQM">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/qSqceuw3c2trH4SWLvJ7rUew">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/_9x3QVQmz7TBSRgq6rFDC81M">Bölüm 8</a></li>
+  </ul>
+  <ul data-server-name="2.Sezon-202208" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/qNqZLSDhk7RNbm3ZBbHSOVac">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/_OWqNubHPAxtvcSG7fKg7ZYu">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/EOprdzikLcfRz16tsB8vtuYb">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/pZVLSZ5wQ3TNtYfnZobtKg6E">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/18NIEDmwxAucfR8f2ais4pl0">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/quhi_H28f4t8sDymWYNf_znj">Bölüm 8</a></li>
+  </ul>
+</div>
