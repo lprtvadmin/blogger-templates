@@ -39,12 +39,14 @@
   <ul data-server-name="2.Sezon-247718" data-server="Dublaj" data-lang="dublaj" class="server-dublaj" data-server-logo="">
     <li><a href="https://rubyvidhub.com/embed-1693801h3a1a.html">Bölüm 4</a></li>
     <li><a href="https://rubyvidhub.com/embed-t8l6hm4fc7yc.html">Bölüm 5</a></li>
+    <li><a href="https://rubyvidhub.com/embed-ipb4699zey2y.html">Bölüm 6</a></li>
   </ul>
   <!-- Altyazı (Streamruby) (Sezon 2) -->
   <ul data-server-name="2.Sezon-247718" data-server="Altyazılı" data-lang="altyazi" class="server-altyazi" data-server-logo="">
     <li><a href="https://rubyvidhub.com/embed-k04tj9t2cest.html">Bölüm 2</a></li>
     <li><a href="https://rubyvidhub.com/embed-veti3iaq42ar.html">Bölüm 4</a></li>
     <li><a href="https://rubyvidhub.com/embed-vz0tzouae6na.html">Bölüm 5</a></li>
+    <li><a href="https://rubyvidhub.com/embed-b39zsn1w4sdh.html">Bölüm 6</a></li>
   </ul>
 </div>
 
