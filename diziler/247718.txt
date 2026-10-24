@@ -19,7 +19,6 @@
     <li><a href="https://dcdlc9f2bddfff97.xyz/player/huwI4NmCbQMy4rJfguwajf9b">Bölüm 5</a></li>
     <li><a href="https://rubyvidhub.com/embed-ipb4699zey2y.html">Bölüm 6</a></li>
   </ul>
-<div id="episodes-data" style="display:none;">
   <!-- Dublaj (Streamruby) (Sezon 1) -->
   <ul data-server-name="1.Sezon-247718" data-server="Dublaj" data-lang="dublaj" class="server-dublaj" data-server-logo="">
     <li><a href="https://rubyvidhub.com/embed-6d5h5zbgr2gu.html">Bölüm 1</a></li>
