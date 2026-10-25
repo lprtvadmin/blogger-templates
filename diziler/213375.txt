@@ -2,5 +2,6 @@
   <ul data-server-name="1.Sezon-213375" data-server-logo="">
     <li><a href="https://dcdlc9f2bddfff97.xyz/player/c3fQbwNR_DyIj5I7YzOfj7vu">Bölüm 1</a></li>
     <li><a href="https://dcdlc9f2bddfff97.xyz/player/jgExLME2omKeOWqFbvaT61p9">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Vhgnk4MVgA7Ad9dIjoXoe_1L">Bölüm 23</a></li>
   </ul>
 </div>
