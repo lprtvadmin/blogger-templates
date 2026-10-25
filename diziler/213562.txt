@@ -9,7 +9,6 @@
     <li><a href="https://dcdlc9f2bddfff97.xyz/player/SAZw0RLA4dAN82hK1ltMEIG3">Bölüm 7</a></li>
     <li><a href="https://dcdlc9f2bddfff97.xyz/player/ZDa9002PtB4WGvnvEIuo9cAz">Bölüm 8</a></li>
  
-<div id="episodes-data" style="display:none;">
   <!-- Dublaj (Streamruby) (Sezon 1) -->
   <ul data-server-name="1.Sezon-213562" data-server="Dublaj" data-lang="dublaj" data-server-logo="">
     <li><a href="https://rubyvidhub.com/embed-0keyu4v0vlm3.html">Bölüm 1</a></li>
