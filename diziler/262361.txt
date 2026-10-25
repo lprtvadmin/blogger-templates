@@ -1,0 +1,6 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-262361" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/6GHPzYx6b5gx04GNCvRae75j">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/6uXPGoevnqmr7CvkDoQ1ynYz">Bölüm 2</a></li>
+  </ul>
+</div>
