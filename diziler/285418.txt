@@ -1,0 +1,11 @@
+<div id="episodes-data" style="display:none;">
+  <!-- Altyazı (Streamruby) (Sezon 1) -->
+  <ul data-server-name="1.Sezon-285418" data-server="Altyazılı" data-lang="altyazi" class="server-altyazi" data-server-logo="">
+    <li><a href="https://rubyvidhub.com/embed-480ae7fmtfad.html">Bölüm 1</a></li>
+    <li><a href="https://rubyvidhub.com/embed-1wlaezmhyz4i.html">Bölüm 2</a></li>
+    <li><a href="https://rubyvidhub.com/embed-ja9bmk6537dv.html">Bölüm 3</a></li>
+    <li><a href="https://rubyvidhub.com/embed-t0vnkxhjgtjl.html">Bölüm 5</a></li>
+    <li><a href="https://rubyvidhub.com/embed-vvho0n2556i2.html">Bölüm 6</a></li>
+    <li><a href="https://rubyvidhub.com/embed-c3lf0g30w6p1.html">Bölüm 7</a></li>
+  </ul>
+</div>
