@@ -1,0 +1,13 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-46518" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/nAY_YUnsnknfpMcvKNaEsZAN">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/TzfuODtYZ2WdxPuUdS2ZvAUa">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/BEiWMzpRC3RK8S6ytE11_Lfb">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/mFL_iuYVIfroNqpJEG8NpJYB">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/HIQahIeLe38_TJQnrpSEDHUP">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/VCbQsx0NilIf6wHW1gOg_SSJ">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Bzh7EEGwapGNvXZlSAwwNZtG">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/sIHSZgJQfUWbT27X3dtks_jv">Bölüm 8</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/VSUU7KUOjHDetr3ZCEd6OjI7">Bölüm 9</a></li>
+  </ul>
+</div>
