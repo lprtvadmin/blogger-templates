@@ -10,20 +10,7 @@
     <li><a href="https://dcdlc9f2bddfff97.xyz/player/uudqQuV17hQcprVeCXGs8M18">Bölüm 8</a></li>
     <li><a href="https://dcdlc9f2bddfff97.xyz/player/dbqX0s0z76vjwbcbOQ1_KvGB">Bölüm 9</a></li>
     <li><a href="https://dcdlc9f2bddfff97.xyz/player/51g00f31LOyxCB7BaLsywxet">Bölüm 10</a></li>
-</ul>
-  <ul data-server-name="1.Sezon-105248" data-server="Altyazılı" data-lang="altyazi" class="server-altyazi" data-server-logo="">
-    <li><a href="https://rubyvidhub.com/embed-6ztcage492y3.html">Bölüm 1</a></li>
-    <li><a href="https://rubyvidhub.com/embed-ekdlo65p6hq1.html">Bölüm 2</a></li>
-    <li><a href="https://rubyvidhub.com/embed-367e72e2gtfb.html">Bölüm 3</a></li>
-    <li><a href="https://rubyvidhub.com/embed-315nltt3nsi9.html">Bölüm 4</a></li>
-    <li><a href="https://rubyvidhub.com/embed-ztxfjgm18gsp.html">Bölüm 5</a></li>
-    <li><a href="https://rubyvidhub.com/embed-5ao86341a4ab.html">Bölüm 6</a></li>
-    <li><a href="https://rubyvidhub.com/embed-gancz74trqi7.html">Bölüm 7</a></li>
-    <li><a href="https://rubyvidhub.com/embed-u63jj175o7k8.html">Bölüm 8</a></li>
-    <li><a href="https://rubyvidhub.com/embed-m100esexzqpt.html">Bölüm 9</a></li>
-    <li><a href="https://rubyvidhub.com/embed-zmxowqium6gj.html">Bölüm 10</a></li>
   </ul>
-  <!-- Altyazı (Streamruby) (Sezon 2) -->
   <ul data-server-name="2.Sezon-105248" data-server="Altyazılı" data-lang="altyazi" class="server-altyazi" data-server-logo="">
     <li><a href="https://rubyvidhub.com/embed-18shb899e18q.html">Bölüm 1</a></li>
     <li><a href="https://rubyvidhub.com/embed-oua5236rcspk.html">Bölüm 2</a></li>
@@ -35,8 +22,6 @@
     <li><a href="https://rubyvidhub.com/embed-df58c6260qql.html">Bölüm 8</a></li>
     <li><a href="https://rubyvidhub.com/embed-460gnz20irnk.html">Bölüm 9</a></li>
     <li><a href="https://rubyvidhub.com/embed-2imxeq01fibm.html">Bölüm 10</a></li>
-  </ul>
-</div>
 
   </ul>
 </div>
