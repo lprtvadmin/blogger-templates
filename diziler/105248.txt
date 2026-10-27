@@ -11,7 +11,6 @@
     <li><a href="https://dcdlc9f2bddfff97.xyz/player/dbqX0s0z76vjwbcbOQ1_KvGB">Bölüm 9</a></li>
     <li><a href="https://dcdlc9f2bddfff97.xyz/player/51g00f31LOyxCB7BaLsywxet">Bölüm 10</a></li>
 </ul>
-  <!-- Altyazı (Streamruby) (Sezon 1) -->
   <ul data-server-name="1.Sezon-105248" data-server="Altyazılı" data-lang="altyazi" class="server-altyazi" data-server-logo="">
     <li><a href="https://rubyvidhub.com/embed-6ztcage492y3.html">Bölüm 1</a></li>
     <li><a href="https://rubyvidhub.com/embed-ekdlo65p6hq1.html">Bölüm 2</a></li>
