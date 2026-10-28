@@ -32,5 +32,7 @@
     <li><a href="https://dcdlc9f2bddfff97.xyz/player/iynxNB4gbWV0EzwUHf3WbkRt">Bölüm 11</a></li>
     <li><a href="https://dcdlc9f2bddfff97.xyz/player/_3vxvfLJiQELjq2qZBXvMExg">Bölüm 12</a></li>
     <li><a href="https://dcdlc9f2bddfff97.xyz/player/h8inlT0_3LQz45ozoMRDtscO">Bölüm 13</a></li>
+    <ul data-server-name="3.Sezon-243006" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/y3U7E2lqzgFu8tMZhd8d5efl">Bölüm 1</a></li>
   </ul>
 </div>
