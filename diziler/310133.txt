@@ -1,0 +1,9 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-310133" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/_jJZps2gE-ay-nYegEAffIq4">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/eGeXspFVl3ZDQVLW6WE4KKcF">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/jqDgWTF3tg0trVc4LjbXfecM">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/i1ToTxajX8QRNlIu93l7lxoc">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/ape1S4G4Lxc4Nh6m0lxshuO5">Bölüm 5</a></li>
+  </ul>
+</div>

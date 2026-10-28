@@ -1,0 +1,7 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-239618" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/euLtwjXwUADO5TkDSKYNQn7l">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/SOhnyKHAwDUILmsPSdoVev6B">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/VaugWKikZQHD7iby6Fjuj_fD">Bölüm 3</a></li>
+  </ul>
+</div>
