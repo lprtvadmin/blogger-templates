@@ -1,0 +1,10 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-304842" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/U4SO83nAyJwJNX49ioCBlhvl">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/i75ic8qh6THNtX5ewY_eFiqx">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/oZBuPqIagF5JztYqXQ_LCCZN">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/20GcMvEUqQS5tKuVdSRDRVPS">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/kUTgh6X6meX8A5xrgn8Y60S5">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/nDEqyZGthtygbySwvBKzNtPy">Bölüm 6</a></li>
+  </ul>
+</div>
