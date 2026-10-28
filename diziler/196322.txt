@@ -18,5 +18,6 @@
     <li><a href="https://dcdlc9f2bddfff97.xyz/player/dzp6kRgwgBKTWOHxXt_BRD92">Bölüm 5</a></li>
     <li><a href="https://dcdlc9f2bddfff97.xyz/player/OBZlUG3qWaTyp4CrqFM9M8bg">Bölüm 6</a></li>
     <li><a href="https://dcdlc9f2bddfff97.xyz/player/mZspjddOOXYVdUWN07nCopoz">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/f918XTAEe4_4p0_1akY92HG1">Bölüm 8</a></li>
   </ul>
 </div>
