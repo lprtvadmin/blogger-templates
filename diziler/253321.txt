@@ -1,0 +1,12 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-253321" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/9Mlv0K3Hu7R32_vN0goS7AbM">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/VepOVX2cq9lXiN48qHjQAvI2">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/TB_wbUQMHDWFcBJrQAr1Z4LW">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/AGIQN5bANGvJSmYPkPkE43hy">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/TrMBiriCQkZVUVIWNMsjM5sU">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/a95GqhhRbqG8f2l5RAY_AgTD">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/VE9hD23_yWLLbzKBNORf4_xq">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/VJdske4DlrwsvV_GO3QRpmKV">Bölüm 8</a></li>
+  </ul>
+</div>

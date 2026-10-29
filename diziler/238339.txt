@@ -1,0 +1,9 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-238339" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/MuHlIygT76BdbNA3VAdHi4Im">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/vNcvYjeueDVDe5TI86hmUuqL">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/DT2am4K5HaIGEe_OBY4FEKa2">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/MquCk7qu8X8qYDi38N2j4kZY">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/e_N9DXqIqcaRhfyl1bT5r8ED">Bölüm 5</a></li>
+  </ul>
+</div>

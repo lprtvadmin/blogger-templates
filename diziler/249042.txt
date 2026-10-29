@@ -1,0 +1,8 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-249042" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/BqW9Ie1S_H9_qPiZgUvUXJMS">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/597gZ_MKW0CTPmD41stWTwt0">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/z1KQC8Xu8FDR88e2cpibft3U">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Kwa_vdQI10G98YOTu4Q7x8t1">Bölüm 4</a></li>
+  </ul>
+</div>
