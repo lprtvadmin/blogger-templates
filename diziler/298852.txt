@@ -2,5 +2,6 @@
   <ul data-server-name="1.Sezon-298852" data-server-logo="">
     <li><a href="https://dcdlc9f2bddfff97.xyz/player/Ix5GCi9ieSZuvvzqJ9OFfkU1">Bölüm 1</a></li>
     <li><a href="https://dcdlc9f2bddfff97.xyz/player/q2etxFX8WK9On5OZt2MX8IG1">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/9eNIpQPzSQ8ih6Sb8V1wGe2h">Bölüm 3</a></li>
   </ul>
 </div>
