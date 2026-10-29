@@ -1,37 +1,41 @@
 <div id="episodes-data" style="display:none;">
   <ul data-server-name="1.Sezon-153312" data-server-logo="">
-    <li><a href="https://dcdlc9f2bddfff97.xyz/player/QtVAqr948c2RqlgVGUuFaXB7">Bölüm 1</a></li>
-    <li><a href="https://dcdlc9f2bddfff97.xyz/player/4lrMYGsRtd046sNLvljkt7jJ">Bölüm 2</a></li>
-    <li><a href="https://dcdlc9f2bddfff97.xyz/player/W_on5bGQr3R8FQ2Gmy1UQExm">Bölüm 3</a></li>
-    <li><a href="https://dcdlc9f2bddfff97.xyz/player/xqLzWASuv3o0K8VZNkfgcl65">Bölüm 4</a></li>
-    <li><a href="https://dcdlc9f2bddfff97.xyz/player/EkezC4n6jXghMVAJxfoUmBu6">Bölüm 5</a></li>
-    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Dn_QG2zQn9xxt7f7wdcMKDJU">Bölüm 6</a></li>
-    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Y5HrVdNv4OI2cxeKG2Jc_qWQ">Bölüm 7</a></li>
-    <li><a href="https://dcdlc9f2bddfff97.xyz/player/E0c2qsP3rkKJ95ELTJf9LSiR">Bölüm 8</a></li>
-    <li><a href="https://dcdlc9f2bddfff97.xyz/player/xbxfYzwqG5hwSZ_5diG_TSlQ">Bölüm 9</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/fgF1cVmyj07MahgqBMI200eI">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Vbnm4x9_qeP2_bK7fnSG0ArV">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/QkQvp3ab1OOdQs_j8lUizzr_">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/rEQRKhPkF4hA6GwgqHGB1ZCL">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/9nqOhIggSZtibl1SMB8SCzle">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/uIh2t_2aE8YYM6mq3rc1Iheb">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/P3Tk1bh6qOC8QMCQmd38gDrc">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/6iKuwrzKi1NlCvPilbunSxAE">Bölüm 8</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/O0jcBg2rC6585jhE6rghsL8k">Bölüm 9</a></li>
   </ul>
   <ul data-server-name="2.Sezon-153312" data-server-logo="">
-    <li><a href="https://dcdlc9f2bddfff97.xyz/player/mqImUCIVAUNpO0kU5FEyRJHG">Bölüm 1</a></li>
-    <li><a href="https://dcdlc9f2bddfff97.xyz/player/lqOYS555uVG56GQnnKOzBaB_">Bölüm 2</a></li>
-    <li><a href="https://dcdlc9f2bddfff97.xyz/player/R3R2_5pBgXZQAILxyENtmomi">Bölüm 3</a></li>
-    <li><a href="https://dcdlc9f2bddfff97.xyz/player/s8MfiTDm78lCxgEnkkPvJ0m_">Bölüm 4</a></li>
-    <li><a href="https://dcdlc9f2bddfff97.xyz/player/ETYti0tCJE7bq1uWwDya2jWz">Bölüm 5</a></li>
-    <li><a href="https://dcdlc9f2bddfff97.xyz/player/p3heHV6_G4uf_isW9dmGtpRA">Bölüm 6</a></li>
-    <li><a href="https://dcdlc9f2bddfff97.xyz/player/OyBBlpBl8eRko4ieF_f0AhsE">Bölüm 7</a></li>
-    <li><a href="https://dcdlc9f2bddfff97.xyz/player/OlxXPtOy9X5x30G7QqYY4JPf">Bölüm 8</a></li>
-    <li><a href="https://dcdlc9f2bddfff97.xyz/player/bi_aN4FG7ussCNdCztbox4Zv">Bölüm 9</a></li>
-    <li><a href="https://dcdlc9f2bddfff97.xyz/player/hl0FnEzl3aQFNBxi37NaNwRt">Bölüm 10</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/XXoxkeJg6gktt7tZPsZb0bpT">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/tFacpIAoo3kHyORbCSKU48BN">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/kc1RLBZRpDFQ4ec92JlYqP1D">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/hgx_7pIn3qaNvtq5Im1tTpgl">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/FRkyPrdIncPsdLlK0rYk3Zkk">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/pbXhwk1bzeuRjBsvjpG7eUoV">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/3EMRfUhggNXWbEGbAJU58LyU">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/e4x_hSpvzwoyrFXpPL8K7KnD">Bölüm 8</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/3UhryQQgbeD9DfJ1_avw9nSQ">Bölüm 9</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/f5sbOHcy6L2Qk9xwLOmiBOD3">Bölüm 10</a></li>
   </ul>
   <ul data-server-name="3.Sezon-153312" data-server-logo="">
-    <li><a href="https://dcdlc9f2bddfff97.xyz/player/wyxZFE3kDcVwg0AbsRikj5BM">Bölüm 1</a></li>
-    <li><a href="https://dcdlc9f2bddfff97.xyz/player/EGLC1hDcohK4QT8nSrPPeKdK">Bölüm 2</a></li>
-    <li><a href="https://dcdlc9f2bddfff97.xyz/player/wtev2eHXxcsSdFb9PC6ei0QH">Bölüm 3</a></li>
-    <li><a href="https://dcdlc9f2bddfff97.xyz/player/3Gt8YrwzSOuBBIJtiW5dVsxb">Bölüm 4</a></li>
-    <li><a href="https://dcdlc9f2bddfff97.xyz/player/v4UZVS_W0dgSrZjTQ8d5Pl4N">Bölüm 5</a></li>
-    <li><a href="https://dcdlc9f2bddfff97.xyz/player/xx3GzRtAl9sBUJxiuTaYAGHk">Bölüm 6</a></li>
-    <li><a href="https://dcdlc9f2bddfff97.xyz/player/uv_dZ0ojt2WBJyWaPWtnIZoK">Bölüm 7</a></li>
-    <li><a href="https://dcdlc9f2bddfff97.xyz/player/tgFLyZuLyxfaK88pIqO_iycY">Bölüm 8</a></li>
-    <li><a href="https://dcdlc9f2bddfff97.xyz/player/qMJvqjoOpnzRnDPiWdxYEwZl">Bölüm 9</a></li>
-    <li><a href="https://dcdlc9f2bddfff97.xyz/player/CEOpUXzur74iF7XkwZsVonTt">Bölüm 10</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Tpe5DgceID9MRTfMU7ABGetG">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/PcJBWGAJqaoFeUUL0rfHGWob">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/zJJRutIQOY_hOvHtmRbmi5qx">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/74kFXJhwCTOg0ox3Tc9qn9MK">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/lWWNx6acW1wzDVHVkGiVOrUu">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/dsp2L17aUw08ptrYDOTTlA4F">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/OW900BdSAHJOdSKmBmqDmA7V">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/IdXBlVPdIxxkdV2gLFPYWjVi">Bölüm 8</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/f6nqJVrSFME__yoJ7og4cpY3">Bölüm 9</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Csa_roERlNfKZEMyxSYWcEWb">Bölüm 10</a></li>
+  </ul>
+  <ul data-server-name="4.Sezon-153312" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/rkSR6obMhDRKDApZfn3RC4Bd">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Sn4NKGU_rTZXqNCp1VP9YnNj">Bölüm 2</a></li>
   </ul>
 </div>
