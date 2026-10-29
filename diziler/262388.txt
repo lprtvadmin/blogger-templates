@@ -1,0 +1,7 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-262388" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/vcAEn3tR07um2PaJKk0e0B17">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/ZPZvv3T8NCVEa3vpxJMI8GDy">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/oU8qZqzlag3EHAgYpZEPNbkx">Bölüm 3</a></li>
+  </ul>
+</div>
