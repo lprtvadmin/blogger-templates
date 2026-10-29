@@ -1,5 +1,40 @@
 <div id="episodes-data" style="display:none;">
-  <!-- Dublaj (Streamruby) (Sezon 1) -->
+  <ul data-server-name="1.Sezon-250923" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/X0lrV6PUpTIr1qIwp0xsagB4">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/z0jCZKfPtVs2KbFuwJkERg4C">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Wbz0mFg3BgCh8ht_8KVeumuc">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/dZ492ItJi8t6dTC92yJTOLHU">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/WEdd4JfZhrH8i0aU2bBlqUVD">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/nEaH0tjbyf6mP191MZW1PspN">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/pVbA2Qq4b8zJRWgBKlREeV71">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Yekv9_ncrPH5Zrm84Ln73KPr">Bölüm 8</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/GvsgFFC3If3U8iUKvYH52FuP">Bölüm 9</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/4tW2wIcVbzh4DK_ZB7oR1WUS">Bölüm 10</a></li>
+  </ul>
+  <ul data-server-name="2.Sezon-250923" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/ZOK68vVflSyKFD3jnVfogIPO">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/KV_DpQbXQKptYFerbTnJs5do">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/fMB63JiWF_DOhMTejdWhdnGd">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/IFEfE_1DS3Fz02_822NO65L7">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/XEBqjPejn2V2VwZKPlxo9bs5">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/qDvcpuotIQ_tFSgtFKQn4uyf">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/iNwusanedjsa21YDmDMhhNE8">Bölüm 8</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/m2m6dm8w8AMkfF9QFyKUizxk">Bölüm 9</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Rf3c2zxmmr2VVVV8CXW5ppn4">Bölüm 10</a></li>
+  </ul>
+  <ul data-server-name="3.Sezon-250923" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/1w0qhGQxC51K9YYCuQ0uZrIb">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/I9SvyA0QF9uObW2M2OK1XV5P">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/cDLfwstMhvIbgRnVJu21dow4">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/F9DLDubWxXkyGqMEvS7GVGy5">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/NAmmnJYeJCEppmZuDEXaTp8s">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/c2165GBw4PGhnsBaV2DR_h8U">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/rDciyerF9NTNkoqLXs1A5mop">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Py3dB1fy3na8yTm51DO1Xt8t">Bölüm 8</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/FiPiqkPnobuXTIGohiVTddjt">Bölüm 9</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/72jr16N7j7qYppszpBQVQSJi">Bölüm 10</a></li>
+</ul>
+<!-- Dublaj (Streamruby) (Sezon 1) -->
   <ul data-server-name="1.Sezon-250923" data-server="Dublaj" data-lang="dublaj" class="server-dublaj" data-server-logo="">
     <li><a href="https://rubyvidhub.com/embed-2y92f1o3fili.html">Bölüm 1</a></li>
     <li><a href="https://rubyvidhub.com/embed-eidnkm6fmaz1.html">Bölüm 2</a></li>
@@ -50,4 +85,7 @@
     <li><a href="https://rubyvidhub.com/embed-s00l6jjbfuj9.html">Bölüm 9</a></li>
     <li><a href="https://rubyvidhub.com/embed-5z6f19v1sxsf.html">Bölüm 10</a></li>
   </ul>
+</div>
+
+ </ul>
 </div>
