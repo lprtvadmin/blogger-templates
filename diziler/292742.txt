@@ -1,0 +1,7 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-292742" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/ENyfOlYDXoDUP_K5eKTEvLwf">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/rmbJ1aNcIWEOVbJWehApzL_c">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/vYK9mj9v_Fdw8PaaBu_CnCvU">Bölüm 3</a></li>
+  </ul>
+</div>
