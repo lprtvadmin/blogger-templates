@@ -11,7 +11,10 @@
     <li><a href="https://dcdlc9f2bddfff97.xyz/player/TnGCAcpGnI6bdTpkvCUgdkq3">Bölüm 9</a></li>
     <li><a href="https://dcdlc9f2bddfff97.xyz/player/_rbX_X1tK8ttmTqgGLCZjirg">Bölüm 10</a></li>
 </ul>
-  <ul data-server-name="2.Sezon-259909" data-server-logo="">
+<!-- Altyazı (Streamruby) (Sezon 2) -->
+  <ul data-server-name="2.Sezon-259909" data-server="Altyazılı" data-lang="altyazi" class="server-altyazi" data-server-logo="">
     <li><a href="https://rubyvidhub.com/embed-q34b1q3vx335.html">Bölüm 1</a></li>
+  </ul>
+</div>
   </ul>
 </div>
