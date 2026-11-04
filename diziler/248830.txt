@@ -1,0 +1,16 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-248830" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/JOZ3mKjXhOIZkpCe4Fovamzk">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/_CEYt2KuNwXA9QRxwIr1fqtf">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Klydcvs1p12yeB_vNwY7mE2G">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/EPC8uKqVr29kfZtREJhPtl1q">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/1Pg3Z3BunRBjU_n7De4ocmi_">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/vRfcTHqO8ojtxrYk3b968dOQ">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/PLDbP_NNCrMmRQaUIrbr6mfg">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/bFS5m6iouqNweRFOTuCx0Sy4">Bölüm 8</a></li>
+</ul>
+  <ul data-server-name="2.Sezon-248830" data-server-logo="">
+    <li><a href="https://rubyvidhub.com/embed-k4g7lh78e31d.html">Bölüm 1</a></li>
+    <li><a href="https://rubyvidhub.com/embed-lqf0f119v7bm.html">Bölüm 2</a></li>
+  </ul>
+</div>
