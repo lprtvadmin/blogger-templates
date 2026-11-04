@@ -3,6 +3,9 @@
     <li><a href="https://dcdlc9f2bddfff97.xyz/player/c3fQbwNR_DyIj5I7YzOfj7vu">Bölüm 1</a></li>
     <li><a href="https://dcdlc9f2bddfff97.xyz/player/jgExLME2omKeOWqFbvaT61p9">Bölüm 2</a></li>
     <li><a href="https://dcdlc9f2bddfff97.xyz/player/Vhgnk4MVgA7Ad9dIjoXoe_1L">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/FqSlo3gGzgiufwW3PWHHuf9J">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/JTLO3r2INtsmi631YmHMeVBW">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Zk5XqVITo5QJFWBcnt7SStOZ">Bölüm 6</a></li>
 </ul>
 <!-- Dublaj (Streamruby) (Sezon 1) -->
   <ul data-server-name="1.Sezon-213375" data-server="Dublaj" data-lang="dublaj" class="server-dublaj" data-server-logo="">
