@@ -1,0 +1,7 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-333533" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/v7rgbH8wd9HBt1163yNCUN0V">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/7lZA1fTvNY0OlRHBQUOswQ55">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/fGDnWfdDqQdjeNHy6EWXxmQB">Bölüm 3</a></li>
+  </ul>
+</div>
