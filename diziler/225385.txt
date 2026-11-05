@@ -1,0 +1,40 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-225385" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/GlaqAyvHqmF9tpLMcpMw4Z90">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/C1UHVGnbKRCAJQPzV1vDJ3x7">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/pSVRJddXR6Ag20acS9hb_bYY">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/ZqZpa_ctDgPtCW4x7oKnoSN1">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/pbPiGv5ugx0CwFJWFAMD2aAj">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/nDdMeV49H8aGdNTObxSap95J">Bölüm 6</a></li>
+
+  <!-- Dublaj (Streamruby) (Sezon 1) -->
+  <ul data-server-name="1.Sezon-225385" data-server="Dublaj" data-lang="dublaj" class="server-dublaj" data-server-logo="">
+    <li><a href="https://rubyvidhub.com/embed-ez90zlq2r9ht.html">Bölüm 1</a></li>
+    <li><a href="https://rubyvidhub.com/embed-loucjhy7i5k7.html">Bölüm 2</a></li>
+    <li><a href="https://rubyvidhub.com/embed-3ou95spqgxh7.html">Bölüm 3</a></li>
+    <li><a href="https://rubyvidhub.com/embed-exx27q873yds.html">Bölüm 4</a></li>
+    <li><a href="https://rubyvidhub.com/embed-tpzoc13par0h.html">Bölüm 5</a></li>
+    <li><a href="https://rubyvidhub.com/embed-wa6zm17a90i0.html">Bölüm 6</a></li>
+  </ul>
+  <!-- Altyazı (Streamruby) (Sezon 1) -->
+  <ul data-server-name="1.Sezon-225385" data-server="Altyazılı" data-lang="altyazi" class="server-altyazi" data-server-logo="">
+    <li><a href="https://rubyvidhub.com/embed-rlojjmxp39b8.html">Bölüm 1</a></li>
+    <li><a href="https://rubyvidhub.com/embed-2wb5r3ju40lr.html">Bölüm 2</a></li>
+    <li><a href="https://rubyvidhub.com/embed-e08j9bff2qe1.html">Bölüm 3</a></li>
+    <li><a href="https://rubyvidhub.com/embed-oqhds79bkgaf.html">Bölüm 4</a></li>
+    <li><a href="https://rubyvidhub.com/embed-p9q9q77k1wpr.html">Bölüm 5</a></li>
+    <li><a href="https://rubyvidhub.com/embed-d6a2y8x9ocq2.html">Bölüm 6</a></li>
+  </ul>
+  <!-- Altyazı (Streamruby) (Sezon 2) -->
+  <ul data-server-name="2.Sezon-225385" data-server="Altyazılı" data-lang="altyazi" class="server-altyazi" data-server-logo="">
+    <li><a href="https://rubyvidhub.com/embed-g95hguv5kxou.html">Bölüm 1</a></li>
+    <li><a href="https://rubyvidhub.com/embed-yb2qytnh1wsf.html">Bölüm 2</a></li>
+    <li><a href="https://rubyvidhub.com/embed-42ot4kg4e4w2.html">Bölüm 3</a></li>
+    <li><a href="https://rubyvidhub.com/embed-7nd0cuq5ix1d.html">Bölüm 4</a></li>
+    <li><a href="https://rubyvidhub.com/embed-2k26gfxenkqf.html">Bölüm 5</a></li>
+    <li><a href="https://rubyvidhub.com/embed-mpck969rlpyh.html">Bölüm 6</a></li>
+  </ul>
+</div>
+
+  </ul>
+</div>
