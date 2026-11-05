@@ -6,7 +6,7 @@
     <li><a href="https://dcdlc9f2bddfff97.xyz/player/ZqZpa_ctDgPtCW4x7oKnoSN1">Bölüm 4</a></li>
     <li><a href="https://dcdlc9f2bddfff97.xyz/player/pbPiGv5ugx0CwFJWFAMD2aAj">Bölüm 5</a></li>
     <li><a href="https://dcdlc9f2bddfff97.xyz/player/nDdMeV49H8aGdNTObxSap95J">Bölüm 6</a></li>
-
+  </ul>
   <!-- Dublaj (Streamruby) (Sezon 1) -->
   <ul data-server-name="1.Sezon-225385" data-server="Dublaj" data-lang="dublaj" class="server-dublaj" data-server-logo="">
     <li><a href="https://rubyvidhub.com/embed-ez90zlq2r9ht.html">Bölüm 1</a></li>
