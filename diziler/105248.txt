@@ -10,6 +10,17 @@
     <li><a href="https://dcdlc9f2bddfff97.xyz/player/uudqQuV17hQcprVeCXGs8M18">Bölüm 8</a></li>
     <li><a href="https://dcdlc9f2bddfff97.xyz/player/dbqX0s0z76vjwbcbOQ1_KvGB">Bölüm 9</a></li>
     <li><a href="https://dcdlc9f2bddfff97.xyz/player/51g00f31LOyxCB7BaLsywxet">Bölüm 10</a></li>
+</ul>
+  <ul data-server-name="2.Sezon-105248" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Ybx50OXdwSjksv5W_95dedhS">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/4of8D4qsxgOFHKhosABNfP38">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/_LsJhziUt51PLskIBYCJLEL7">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/1eD7wWK4Awkj3KpBkN6WWa31">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/nSPBmdRaKae5sIgL1Evmxxv5">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/cz6VPhD2jVa2fFKFQ6ekwWt2">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/G6dO8RUwYI7qbuvjNd3uIMtG">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/3RRtGMGaEBJk2ud8nz7UEUTK">Bölüm 8</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/P3MytHYG91fBZSS9Pp9RTsmc">Bölüm 9</a></li>
   </ul>
   <!-- Altyazı (Streamruby) (Sezon 1) -->
   <ul data-server-name="1.Sezon-105248" data-server="Altyazılı" data-lang="altyazi" class="server-altyazi" data-server-logo="">
