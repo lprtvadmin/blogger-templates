@@ -14,6 +14,8 @@
 <!-- Altyazı (Streamruby) (Sezon 2) -->
   <ul data-server-name="2.Sezon-259909" data-server="Altyazılı" data-lang="altyazi" class="server-altyazi" data-server-logo="">
     <li><a href="https://rubyvidhub.com/embed-q34b1q3vx335.html">Bölüm 1</a></li>
+    <li><a href="https://rubyvidhub.com/embed-am79ik84usm7.html">Bölüm 2</a></li>
+
   </ul>
 </div>
   </ul>
