@@ -37,5 +37,6 @@
   <ul data-server-name="4.Sezon-153312" data-server-logo="">
     <li><a href="https://dcdlc9f2bddfff97.xyz/player/rkSR6obMhDRKDApZfn3RC4Bd">Bölüm 1</a></li>
     <li><a href="https://dcdlc9f2bddfff97.xyz/player/Sn4NKGU_rTZXqNCp1VP9YnNj">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/n4VV3zbsJ45cHSOR4tcK9NDZ">Bölüm 3</a></li>
   </ul>
 </div>
