@@ -41,6 +41,7 @@
     <li><a href="https://rubyvidhub.com/embed-t8l6hm4fc7yc.html">Bölüm 5</a></li>
     <li><a href="https://rubyvidhub.com/embed-ipb4699zey2y.html">Bölüm 6</a></li>
     <li><a href="https://rubyvidhub.com/embed-o0e990zktz7x.html">Bölüm 7</a></li>
+    <li><a href="https://rubyvidhub.com/embed-ztupruy4uma8.html">Bölüm 8</a></li>
   </ul>
   <!-- Altyazı (Streamruby) (Sezon 2) -->
   <ul data-server-name="2.Sezon-247718" data-server="Altyazılı" data-lang="altyazi" class="server-altyazi" data-server-logo="">
@@ -49,6 +50,7 @@
     <li><a href="https://rubyvidhub.com/embed-vz0tzouae6na.html">Bölüm 5</a></li>
     <li><a href="https://rubyvidhub.com/embed-b39zsn1w4sdh.html">Bölüm 6</a></li>
     <li><a href="https://rubyvidhub.com/embed-kged1lczsjlh.html">Bölüm 7</a></li>
+    <li><a href="https://rubyvidhub.com/embed-omkpa3mq2fv7.html">Bölüm 8</a></li>
   </ul>
 </div>
 
