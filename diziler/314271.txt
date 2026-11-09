@@ -1,4 +1,12 @@
 <div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-314271" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/H6taJMSfaB6kxsKb8L1ksvHQ">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/CMqmaiO9mrUJ9HVx3y1kSWiz">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/q0LJS9swmyqqbULRSihNX9oF">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/nsW0cvax2Hl2ccZUpRTeRx5f">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/J3JEE62dzTYmXTGDpPr0Coop">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/i_YG4wu6iMlRNCPnJlL8sHTq">Bölüm 6</a></li>
+  </ul>
   <!-- Dublaj (Streamruby) (Sezon 1) -->
   <ul data-server-name="1.Sezon-314271" data-server="Dublaj" data-lang="dublaj" class="server-dublaj" data-server-logo="">
     <li><a href="https://rubyvidhub.com/embed-8ygniaxqi6hj.html">Bölüm 1</a></li>
@@ -20,3 +28,7 @@
 
   </ul>
 </div>
+
+</ul>
+</div>
+
