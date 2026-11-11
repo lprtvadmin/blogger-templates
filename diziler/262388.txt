@@ -3,5 +3,7 @@
     <li><a href="https://dcdlc9f2bddfff97.xyz/player/vcAEn3tR07um2PaJKk0e0B17">Bölüm 1</a></li>
     <li><a href="https://dcdlc9f2bddfff97.xyz/player/ZPZvv3T8NCVEa3vpxJMI8GDy">Bölüm 2</a></li>
     <li><a href="https://dcdlc9f2bddfff97.xyz/player/oU8qZqzlag3EHAgYpZEPNbkx">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Igzl7H_aQuYMYAQ5ibdnyxf2">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Xld23cceQc5TjmyC2qPiJp1q">Bölüm 5</a></li>
   </ul>
 </div>
