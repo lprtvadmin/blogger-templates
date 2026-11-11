@@ -2,5 +2,9 @@
   <ul data-server-name="1.Sezon-316702" data-server-logo="">
     <li><a href="https://dcdlc9f2bddfff97.xyz/player/9DUHoux4pseV2KaD_yw4MuOs">Bölüm 1</a></li>
     <li><a href="https://dcdlc9f2bddfff97.xyz/player/XACThiYGMRaxMJ1IMbJAcyRP">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/exSPxJQEABsYVwNhHzSdE990">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/91jevLF7sXf3NtLEPTPB5HON">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/CCOFbpGZLzk7vQ682QeU66h6">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/JXFBh0BkyelP46l1UUSABWoR">Bölüm 6</a></li>
   </ul>
 </div>
