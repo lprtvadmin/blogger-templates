@@ -6,5 +6,7 @@
     <li><a href="https://dcdlc9f2bddfff97.xyz/player/20GcMvEUqQS5tKuVdSRDRVPS">Bölüm 4</a></li>
     <li><a href="https://dcdlc9f2bddfff97.xyz/player/kUTgh6X6meX8A5xrgn8Y60S5">Bölüm 5</a></li>
     <li><a href="https://dcdlc9f2bddfff97.xyz/player/nDEqyZGthtygbySwvBKzNtPy">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/iHTPKIeA5j1DqeiFV5H4VBm6">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/1xgPXW0rHVvssOrSa6qk2ytM">Bölüm 8</a></li>
   </ul>
 </div>
