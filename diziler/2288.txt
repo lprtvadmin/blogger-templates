@@ -1,0 +1,25 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-2288" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/_4eelpfq7HPhQI6baE8SQpqQ">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/DvIPTzXap7dfsd48BHM8JbRC">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/lAzCVvRoU_R8FX7h_RkXLEcT">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/LtxDsBxteDz_OllhiRxf7M8d">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/tlnm8Y41OylYiMrJZhq5zrKk">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/7ybUMpZpgSDKVP7ps5cqNJ3F">Bölüm 8</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Yb6i5mHrqPVbuWnBkBmZqwPc">Bölüm 9</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/WQiKUvxhFsKBrW5QNfRrDQsb">Bölüm 10</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/C89t0TL7LIAUUiLYzvlfzqWl">Bölüm 11</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/epelEoKUgz9wPyY1vR0GBjY1">Bölüm 20</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/BmlwEbFm7qx4GO2T8q93hn0H">Bölüm 21</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/LXhUMWWLGNK3E4qcWezJXCgw">Bölüm 22</a></li>
+  </ul>
+  <ul data-server-name="2.Sezon-2288" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/iR0u6V44rPGdmacrad_46pM7">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/cq1ibIr4X8PAbc066yDzsIQo">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/EsSwIkCuKoU6g4Q_EWsYNG_g">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/v4yA6Qi8finkxtQRgKhidWCT">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/MGa9J7MToPEx5LqVbXwkvosC">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Qj9LLigzTUZjBk1aJCUngjeI">Bölüm 11</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/viiI_zFnj5h_wk5ZEqDkGvCT">Bölüm 12</a></li>
+  </ul>
+</div>
