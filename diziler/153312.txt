@@ -38,5 +38,6 @@
     <li><a href="https://dcdlc9f2bddfff97.xyz/player/rkSR6obMhDRKDApZfn3RC4Bd">Bölüm 1</a></li>
     <li><a href="https://dcdlc9f2bddfff97.xyz/player/Sn4NKGU_rTZXqNCp1VP9YnNj">Bölüm 2</a></li>
     <li><a href="https://dcdlc9f2bddfff97.xyz/player/n4VV3zbsJ45cHSOR4tcK9NDZ">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/xx1lPOgml5FOhwQMl1wilFUF">Bölüm 4</a></li>
   </ul>
 </div>
