@@ -19,4 +19,10 @@
     <li><a href="https://dcdlc9f2bddfff97.xyz/player/3qb7Ob3alo9Be7EsDk54xMxn">Bölüm 7</a></li>
     <li><a href="https://dcdlc9f2bddfff97.xyz/player/wuqjbIDHZcK0ZZXvUS39t5L4">Bölüm 8</a></li>
   </ul>
+  <ul data-server-name="3.Sezon-84773" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/0stgdvB4p7a6__ihvf95Tt6Q">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Uit6aiyOFIhhDQqcSgZP2r4r">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/mRl79BkPiXEnqNmNMlBRAlo8">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/W1mnnFGedXfATm1HapoZJPot">Bölüm 4</a></li>
+  </ul>
 </div>
