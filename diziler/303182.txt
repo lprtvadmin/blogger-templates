@@ -1,0 +1,7 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-303182" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/1q7jT3Ho0NnpdZwY1jcIvQoY">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/vGdi0Gl5Wshjsx1VGrh9Ph_v">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/CCmgueAvhpL1arfvomCeRtcz">Bölüm 3</a></li>
+  </ul>
+</div>

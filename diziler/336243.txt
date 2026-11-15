@@ -1,0 +1,12 @@
+<div id="episodes-data" style="display:none;">
+  <ul data-server-name="1.Sezon-336243" data-server-logo="">
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/Ijm4nK4A4SIt19JuAEsDP8zJ">Bölüm 1</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/7VrTNXqHBU23l3DI2fSUMF9Y">Bölüm 2</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/3rGIrJ7fSO9GON2ZzuSy1r5n">Bölüm 3</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/McrsOrbSo56XAdLAfwyXfHHk">Bölüm 4</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/x7kUzRRaCdtBaH8Ta3gK3Agi">Bölüm 5</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/PBdG5SjunrYz49ODqV2p2gEH">Bölüm 6</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/nYlRjwQCAuR_WotztF4OxdcX">Bölüm 7</a></li>
+    <li><a href="https://dcdlc9f2bddfff97.xyz/player/n6qEhJVsUdM0FZD4NjWk9E_p">Bölüm 8</a></li>
+  </ul>
+</div>
